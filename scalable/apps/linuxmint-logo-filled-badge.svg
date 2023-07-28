@@ -22,10 +22,10 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
+     inkscape:cx="27.823356"
      inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,7 +106,7 @@
        cx="8.4665003"
        cy="8.4665003"
        r="8.4665003"
-       style="fill:#50fa7b;fill-opacity:1" />
+       style="fill:#43b564;fill-opacity:1" />
     <g
        id="layer3"
        transform="matrix(.04810511 0 0 .04810511 -.76968112 -1.5393629)"
@@ -123,7 +123,7 @@
       <path
          id="path4193-5"
          d="M 229.7004,73.879052 V 217.87905 c 0,35.15671 28.84329,64 64,64 h 96 c 35.15671,0 64,-28.84329 64,-64 v -80 c 0,-26.32015 -21.67985,-47.999998 -48,-47.999998 -12.29591,0 -23.46684,4.8602 -32,12.585938 -8.53316,-7.725738 -19.70409,-12.585938 -32,-12.585938 -26.32015,0 -48,21.679848 -48,47.999998 v 80 h 32 v -80 c 0,-9.02607 6.97393,-16 16,-16 9.02607,0 16,6.97393 16,16 v 80 h 32 v -80 c 0,-9.02607 6.97393,-16 16,-16 9.02607,0 16,6.97393 16,16 v 80 c 0,17.86263 -14.13737,32 -32,32 h -96 c -17.86263,0 -32,-14.13737 -32,-32 V 73.879052 Z"
-         style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#6272a4;fill-opacity:1;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+         style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#4f5a7f;fill-opacity:1;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
     </g>
   </g>
 </svg>
