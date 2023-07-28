@@ -35,13 +35,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
      id="namedview77"
      showgrid="false"
      inkscape:zoom="3.6875"
-     inkscape:cx="0.54237288"
-     inkscape:cy="20.881356"
+     inkscape:cx="-26.847458"
+     inkscape:cy="21.152542"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -195,7 +195,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="fill:#cbcccc"
+       style="fill:#f8f8f2;opacity:1"
        id="path45"
        d="m 31.98,1.9785 c -16.619,0 -29.998,13.379 -29.998,29.998 0,16.619 13.379,29.998 29.998,29.998 h 0.002 c 1.6389,0 3.2444,-0.13427 4.8105,-0.38476 l 24.801,-24.801 c 0.25053,-1.5662 0.38672,-3.1735 0.38672,-4.8125 0,-16.619 -13.379,-29.998 -29.998,-29.998 h -0.002 z"
        inkscape:connector-curvature="0" />
@@ -203,7 +203,7 @@
        id="path73"
        d="M 36.793,61.59 61.594,36.789 C 48.845,38.8281 38.833,48.841 36.793,61.59 Z"
        inkscape:connector-curvature="0"
-       style="fill:#f8f8f2" />
+       style="fill:#cbcccc" />
   </g>
   <g
      transform="matrix(0.44440974,0,0,0.44440974,2.2565697,-75.709227)"
@@ -212,7 +212,7 @@
        d="m 21.901,230.5 c 13.385,4.5427 -5.5887,17.696 13.921,18.944 11.465,0.73361 11.376,16.553 11.376,16.553"
        id="path49"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#b7474b;stroke-width:4;stroke-linecap:round" />
+       style="fill:none;stroke:#ff5555;stroke-width:4;stroke-linecap:round" />
     <g
        transform="translate(0,2)"
        id="g67"
@@ -229,7 +229,7 @@
              width="20"
              height="84"
              id="rect51"
-             style="fill:#b7474b;fill-opacity:1;enable-background:new" />
+             style="fill:#ff5555;fill-opacity:1;enable-background:new" />
           <rect
              transform="rotate(-90)"
              x="-318.5"
@@ -249,7 +249,7 @@
           <path
              d="m 69.75,316.5 v -16 l -16,6 v 4 z"
              id="path57"
-             style="fill:#b7474b;fill-opacity:1;enable-background:new"
+             style="fill:#ff5555;fill-opacity:1;enable-background:new"
              inkscape:connector-curvature="0" />
         </g>
         <rect
