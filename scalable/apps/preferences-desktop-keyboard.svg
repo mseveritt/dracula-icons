@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 16.933 16.933"
    id="svg32345"
-   sodipodi:docname="preferences-desktop-keyboard.svg"
+   sodipodi:docname="cs-keyboard.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="27.76055"
+     inkscape:cx="25.687929"
      inkscape:cy="32.031403"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
@@ -43,7 +43,8 @@
   <g
      transform="matrix(.26458 0 0 .26458 0 .53577)"
      fill="#fff"
-     id="g32339">
+     id="g32339"
+     style="fill:#f8f8f2">
     <rect
        x="20"
        y="37.975"
@@ -51,126 +52,127 @@
        height="5"
        ry="1.025"
        paint-order="markers stroke fill"
-       id="rect32297" />
+       id="rect32297"
+       style="fill:#f8f8f2" />
     <circle
        cx="16"
        cy="20"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32299" />
     <circle
        cx="22"
        cy="20"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32301" />
     <circle
        cx="28"
        cy="20"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32303" />
     <circle
        cx="34"
        cy="20"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32305" />
     <circle
        cx="40"
        cy="20"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32307" />
     <circle
        cx="46"
        cy="20"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32309" />
     <circle
        cx="13"
        cy="26"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32311" />
     <circle
        cx="19"
        cy="26"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32313" />
     <circle
        cx="25"
        cy="26"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32315" />
     <circle
        cx="31"
        cy="26"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32317" />
     <circle
        cx="37"
        cy="26"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32319" />
     <circle
        cx="43"
        cy="26"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32321" />
     <circle
        cx="49"
        cy="26"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32323" />
     <circle
        cx="15"
        cy="32"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32325" />
     <circle
        cx="21"
        cy="32"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32327" />
     <circle
        cx="27"
        cy="32"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32329" />
     <circle
        cx="33"
        cy="32"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32331" />
     <circle
        cx="39"
        cy="32"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32333" />
     <circle
        cx="45"
        cy="32"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32335" />
     <circle
        cx="51"
        cy="32"
        r="2"
-       style="paint-order:stroke fill markers"
+       style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="circle32337" />
   </g>
   <circle
