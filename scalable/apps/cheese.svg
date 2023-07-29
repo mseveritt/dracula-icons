@@ -24,7 +24,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
+     inkscape:cx="27.76055"
      inkscape:cy="32.031403"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
@@ -63,23 +63,27 @@
      fill="#e91e63"
      stroke-width=".51435"
      id="circle6"
-     style="fill:#ff79c6" />
+     style="fill:#b75f96" />
   <g
      transform="matrix(.88887 0 0 .88887 .94133 .94044)"
      fill="#fff"
      stroke-width=".57866"
-     id="g14">
+     id="g14"
+     style="fill:#f8f8f2">
     <path
        d="m9.7288 7.2042a1.7855 1.7855 0 0 0-2.5255 0l1.2628 1.2628z"
        opacity=".2"
-       id="path8" />
+       id="path8"
+       style="fill:#f8f8f2" />
     <path
        d="m9.7288 7.2042a1.7855 1.7855 0 0 1 0 2.5255l-1.2628-1.2628zm-2.5255 2.5255a1.7855 1.7855 0 0 1 0-2.5255l1.2628 1.2628z"
        opacity=".4"
-       id="path10" />
+       id="path10"
+       style="fill:#f8f8f2" />
     <path
        d="m7.2032 9.7298a1.7855 1.7855 0 0 0 2.5255 0l-1.2628-1.2628z"
        opacity=".6"
-       id="path12" />
+       id="path12"
+       style="fill:#f8f8f2" />
   </g>
 </svg>
