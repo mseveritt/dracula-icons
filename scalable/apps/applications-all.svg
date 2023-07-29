@@ -3,8 +3,7 @@
    width="64"
    height="64"
    version="1.1"
-   viewBox="0 0 64 64"
-   id="svg1583"
+   id="svg8"
    sodipodi:docname="applications-all.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -12,9 +11,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1587" />
+     id="defs12" />
   <sodipodi:namedview
-     id="namedview1585"
+     id="namedview10"
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -31,45 +30,27 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1583" />
-  <g
-     transform="translate(-1,-1)"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     id="g1581">
-    <circle
-       cx="33"
-       cy="33"
-       r="28"
-       fill="#528fff"
-       stroke-width="2.2958"
-       id="circle1569"
-       style="fill:#6272a4" />
-    <g
-       fill="#fff"
-       stroke-width="2.8"
-       id="g1579">
-      <rect
-         x="17"
-         y="17"
-         width="14"
-         height="14"
-         rx="2"
-         ry="2"
-         id="rect1571"
-         style="fill:#f8f8f2" />
-      <path
-         d="m37 17c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 2h10v10h-10z"
-         id="path1573"
-         style="fill:#f8f8f2" />
-      <path
-         d="m37 35c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 2h10v10h-10z"
-         id="path1575"
-         style="fill:#f8f8f2" />
-      <path
-         d="m19 35c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 2h10v10h-10z"
-         id="path1577"
-         style="fill:#f8f8f2" />
-    </g>
-  </g>
+     inkscape:current-layer="svg8" />
+  <circle
+     cx="32"
+     cy="32"
+     r="28"
+     fill="#44475a"
+     id="circle2"
+     style="fill:#44475a" />
+  <rect
+     width="14"
+     height="14"
+     x="16"
+     y="16"
+     fill="#fff"
+     rx="2"
+     ry="2"
+     id="rect4"
+     style="fill:#f8f8f2" />
+  <path
+     fill="#fff"
+     d="M36 16c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V18c0-1.108-.892-2-2-2zm0 2h10v10H36zm0 16c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V36c0-1.108-.892-2-2-2zm0 2h10v10H36zm-18-2c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V36c0-1.108-.892-2-2-2zm0 2h10v10H18z"
+     id="path6"
+     style="fill:#f8f8f2" />
 </svg>
