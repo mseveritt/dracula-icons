@@ -23,7 +23,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
+     inkscape:cx="27.76055"
      inkscape:cy="32.031403"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
@@ -36,7 +36,7 @@
      cy="32"
      r="27"
      fill="#71bc42"
-     style="paint-order:markers stroke fill;fill:#50fa7b"
+     style="paint-order:markers stroke fill;fill:#43b564"
      id="circle2" />
   <path
      d="M24 16.952v3.43h-2.667A1.33 1.33 0 0 0 20 21.715v24a1.33 1.33 0 0 0 1.333 1.333h21.334A1.33 1.33 0 0 0 44 45.715v-24a1.33 1.33 0 0 0-1.333-1.333H40v-3.43z"
@@ -47,5 +47,5 @@
      d="M22.667 22.667V28h18.666v-5.333zm0 8V36h18.666v-5.333zm0 8V44h18.666v-5.333z"
      fill="#c0f957"
      id="path6"
-     style="fill:#88f9a3" />
+     style="fill:#50fa7b" />
 </svg>
