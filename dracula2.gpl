@@ -1,0 +1,26 @@
+GIMP Palette
+Columns: 16
+#
+ 33  34  44    Background
+ 65  69  88    CurrentLine    
+ 98 103 132    CurrentLine Secondary
+138 143 168    CurrentLine Tertiary
+182 185 201    CurrentLine Quartiary
+226 227 233    CurrentLine Quintary
+248 248 242    Foreground
+121 112 169    Comment
+166 159 198    Comment Secondary
+128 255 234    Cyan
+204 255 246    Cyan Secondary
+138 255 128    Green
+208 255 204    Green Secondary
+255 202 128    Orange
+255 234 204    Orange Secondary
+255 128 191    Pink
+255 204 230    Pink Secondary
+149 128 255    Purple
+213 204 255    Purple Secondary
+255 149 128    Red
+255 213 204    Red Secondary
+255 255 128    Yellow
+255 255 204    Yellow Secondary
