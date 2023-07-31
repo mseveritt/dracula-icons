@@ -115,7 +115,7 @@
            fill="url(#linearGradient854)"
            stroke-width="1.1271"
            id="path22"
-           style="fill:#43b564;fill-opacity:1" />
+           style="fill:#44c367;fill-opacity:1" />
         <path
            d="m577.77 670.25c-36.459 0-68.098-27.639-68.098-64.065l-0.0327-44.229v-11.278h-23.115v-56.197l97.475 0.45904 30.492 0.0656c36.492 0 68.098 27.606 68.098 64.065v111.18h-104.82zm89.967-29.824v-81.356c0-27.18-23.836-49.213-53.246-49.213h-30.524v-0.0656l-82.557-0.36074v26.393h9.248c6.2786 0 13.834 5.9003 13.834 14.559l0.0656 55.769c0 27.18 23.836 49.213 53.213 49.213h72.531c9.2986 0 17.435-5.8887 17.435-14.939z"
            fill="#2e3440"
@@ -126,7 +126,7 @@
            d="m577.77 670.25c-36.459 0-68.098-27.639-68.098-64.065l-0.0327-44.229v-11.278h-23.115v-56.197l97.475 0.45904 30.492 0.0656c36.492 0 68.098 27.606 68.098 64.065v111.18h-104.82zm89.967-29.824v-81.356c0-27.18-23.836-49.213-53.246-49.213h-30.524v-0.0656l-82.557-0.36075v26.393h9.248c6.2786 0 13.834 5.9003 13.834 14.559l0.0656 55.769c0 27.18 23.836 49.213 53.213 49.213h72.531c9.2986 0 17.435-5.8887 17.435-14.939z"
            fill="url(#linearGradient938-2)"
            id="path26"
-           style="fill:#4f5a7f;fill-opacity:1" />
+           style="fill:#515d85;fill-opacity:1" />
       </g>
     </g>
     <g
@@ -161,7 +161,7 @@
          image-rendering="auto"
          shape-rendering="auto"
          solid-color="#000000"
-         style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#4f5a7f"
+         style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#515d85"
          id="path36" />
     </g>
   </g>

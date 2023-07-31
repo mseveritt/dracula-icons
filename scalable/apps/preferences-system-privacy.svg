@@ -37,7 +37,7 @@
      cy="8.4665"
      r="7.1436"
      fill="#8a61b8"
-     style="paint-order:stroke fill markers;fill:#8b70b8"
+     style="paint-order:stroke fill markers;fill:#9576c5"
      id="circle2" />
   <g
      transform="translate(0 -280.07)"
@@ -51,7 +51,7 @@
        d="m10.85 288.53a2.382 2.382 0 1 1-4.763 0 2.382 2.382 0 0 1 4.763 0"
        fill="#4586f9"
        id="path6"
-       style="fill:#6aa9bb" />
+       style="fill:#70b7c8" />
     <path
        d="m9.792 288.53a1.322 1.322 0 1 1-2.645 0 1.322 1.322 0 0 1 2.645 0"
        fill="#141414"
@@ -66,6 +66,6 @@
        d="M10.317 285.813l-4.3 5.099c.196.127.396.24.602.342l4.297-5.1c-.191-.134-.414-.246-.6-.34m0 0"
        fill="#d5122d"
        id="path12"
-       style="fill:#b7474b" />
+       style="fill:#c7484a" />
   </g>
 </svg>

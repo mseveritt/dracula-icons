@@ -47,7 +47,7 @@
        d="m4.7918 3.9196c-0.30944 8e-7 -0.55855 0.24911-0.55855 0.55855v8.192c0 0.30944 0.24911 0.55855 0.55855 0.55855h7.0749c0.30944 0 0.55855-0.24911 0.55855-0.55855l5.7e-5 -6.3568-2.3783-2.3938z"
        fill="#f7d83f"
        stroke-width=".18618"
-       style="paint-order:fill markers stroke;fill:#aeb56f"
+       style="paint-order:fill markers stroke;fill:#bcc373"
        id="path4" />
     <path
        d="m12.425 6.3134-2.3783-2.3938v1.7953c0 0.33154 0.26519 0.59844 0.5946 0.59844z"
@@ -70,7 +70,7 @@
        d="m12.425 6.3134-2.3783-2.3938v1.7953c0 0.33154 0.26519 0.59844 0.5946 0.59844z"
        fill="#88aaf8"
        stroke-width=".75153"
-       style="paint-order:fill markers stroke;fill:#949fbe"
+       style="paint-order:fill markers stroke;fill:#8894b8"
        id="path12" />
   </g>
   <rect

@@ -1,0 +1,19 @@
+GIMP Palette
+Columns: 16
+#
+ 30  31  41    bg_el
+ 40  42  54    Background
+ 68  71  90    CurrentLine
+195 199 209    FG_el    
+248 248 242    Foreground
+ 98 114 164    Comment   
+ 19 177 213    Blue_el
+114 191 208    Cyan_el
+139 233 253    Cyan
+ 80 250 123    Green
+255 184 108    Orange
+255 121 198    Pink
+123 123 189    Slider_el
+189 147 249    Purple
+255  85  85    Red
+241 250 140    Yellow

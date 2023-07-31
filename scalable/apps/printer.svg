@@ -90,7 +90,7 @@
      fill="#31a6da"
      opacity=".5"
      stroke-width="2"
-     style="paint-order:markers stroke fill;fill:#6aa9bb"
+     style="paint-order:markers stroke fill;fill:#70b7c8"
      id="rect16" />
   <circle
      cx="47"
@@ -98,6 +98,6 @@
      r="4"
      fill="#31a6da"
      stroke-width="2"
-     style="paint-order:markers stroke fill;fill:#6aa9bb"
+     style="paint-order:markers stroke fill;fill:#70b7c8"
      id="circle18" />
 </svg>

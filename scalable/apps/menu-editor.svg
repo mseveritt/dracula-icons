@@ -37,7 +37,7 @@
      cy="8.4665003"
      r="7.1436"
      fill="#6961b8"
-     style="mix-blend-mode:darken;fill:#8b70b8;paint-order:stroke fill markers"
+     style="mix-blend-mode:darken;fill:#9576c5;paint-order:stroke fill markers"
      id="circle2" />
   <rect
      x="5.027"
@@ -57,36 +57,36 @@
   <g
      fill="#6961b8"
      id="g18"
-     style="fill:#8b70b8">
+     style="fill:#9576c5">
     <circle
        cx="5.821"
        cy="5.29"
        r=".265"
-       style="paint-order:markers stroke fill;fill:#8b70b8"
+       style="paint-order:markers stroke fill;fill:#9576c5"
        id="circle8" />
     <circle
        cx="5.821"
        cy="6.88"
        r=".265"
-       style="paint-order:markers stroke fill;fill:#8b70b8"
+       style="paint-order:markers stroke fill;fill:#9576c5"
        id="circle10" />
     <circle
        cx="5.821"
        cy="8.46"
        r=".265"
-       style="paint-order:markers stroke fill;fill:#8b70b8"
+       style="paint-order:markers stroke fill;fill:#9576c5"
        id="circle12" />
     <circle
        cx="5.821"
        cy="10.05"
        r=".265"
-       style="paint-order:markers stroke fill;fill:#8b70b8"
+       style="paint-order:markers stroke fill;fill:#9576c5"
        id="circle14" />
     <circle
        cx="5.821"
        cy="11.64"
        r=".265"
-       style="paint-order:markers stroke fill;fill:#8b70b8"
+       style="paint-order:markers stroke fill;fill:#9576c5"
        id="circle16" />
   </g>
 </svg>
