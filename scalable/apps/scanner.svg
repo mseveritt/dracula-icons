@@ -23,10 +23,10 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="12.96875"
-     inkscape:cx="29.378313"
-     inkscape:cy="32"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:cx="26.756627"
+     inkscape:cy="32.077108"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -37,7 +37,7 @@
      r="27"
      fill="#4f4f4f"
      stroke-width="3.7796"
-     style="paint-order:stroke fill markers"
+     style="paint-order:stroke fill markers;fill:#44475a"
      id="circle2" />
   <circle
      cx="32"
@@ -53,10 +53,10 @@
      opacity=".25"
      stroke-width="1.3333"
      id="path6"
-     style="fill:#a6edfa;opacity:1" />
+     style="fill:#8be9fd;opacity:1" />
   <path
      d="m7.3652 21a27 27 0 0 0-1.1523 3h51.545a27 27 0 0 0-1.1367-3h-49.256z"
      fill="#388dd4"
      id="path8"
-     style="fill:#70b7c8" />
+     style="fill:#13b1d5" />
 </svg>

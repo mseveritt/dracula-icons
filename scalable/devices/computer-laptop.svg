@@ -3,7 +3,7 @@
    width="64"
    height="64"
    version="1"
-   id="svg7694"
+   id="svg2401"
    sodipodi:docname="computer-laptop.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -11,9 +11,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs7698" />
+     id="defs2405" />
   <sodipodi:namedview
-     id="namedview7696"
+     id="namedview2403"
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -23,21 +23,21 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
+     inkscape:cx="29.83317"
      inkscape:cy="32.031403"
-     inkscape:window-width="2560"
+     inkscape:window-width="1280"
      inkscape:window-height="1361"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7694" />
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2401" />
   <circle
      cx="32"
      cy="32"
      r="27"
-     fill="#f2f2f2"
+     fill="#ececec"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
-     id="circle7684" />
+     id="circle2391" />
   <rect
      x="15"
      y="20"
@@ -46,24 +46,22 @@
      rx="1"
      ry="1"
      fill="#2f3337"
-     stroke-width=".55827"
-     id="rect7686"
-     style="fill:#282a36" />
+     id="rect2393"
+     style="fill:#44475a" />
   <path
-     d="m16 21h32v20h-32z"
-     fill="#5294e2"
+     d="M16 21h32v20H16z"
+     fill="#bd93f9"
      fill-rule="evenodd"
-     stroke-width=".59041"
-     id="path7688"
-     style="fill:#13b1d5" />
+     id="path2395"
+     style="fill:#9576c5" />
   <path
-     d="m11 42v1c0 0.554 0.446 1 1 1h40c0.554 0 1-0.446 1-1v-1h-41z"
+     d="M11 42v1c0 .554.446 1 1 1h40c.554 0 1-.446 1-1v-1H12z"
      fill="#fff"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
-     id="path7690" />
+     id="path2397" />
   <path
-     d="m11 42v1c0 0.554 0.446 1 1 1h40c0.554 0 1-0.446 1-1v-1h-14c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1h-13z"
+     d="M11 42v1c0 .554.446 1 1 1h40c.554 0 1-.446 1-1v-1H39c0 .554-.446 1-1 1H26c-.554 0-1-.446-1-1H12z"
      fill="#ccc"
      style="paint-order:stroke fill markers;fill:#cbcccc"
-     id="path7692" />
+     id="path2399" />
 </svg>

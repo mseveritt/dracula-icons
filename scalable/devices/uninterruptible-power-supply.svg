@@ -1,15 +1,101 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <circle cx="32" cy="32" r="27" fill="#f2f2f2" style="paint-order:stroke fill markers"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" x="-51" y="-48" width="38" height="32" rx="2.7141" ry="2.909" fill="#8e8e8e" stroke-width=".74617"/>
- <path d="m42 13v20c0 5.54-4.46 10-10 10s-10-4.46-10-10v-20z" opacity=".5" stroke-width=".71429"/>
- <g stroke-width=".66667">
-  <circle cx="32" cy="34" r="4" fill="#3697c4"/>
-  <circle cx="32" cy="24" r="2" fill="#ff6e40"/>
-  <circle cx="32" cy="18" r="2" fill="#76ff03"/>
- </g>
- <g>
-  <path d="m24 49c-1.108 0-2 0.892-2 2h20c0-1.108-0.892-2-2-2h-16z" opacity=".35" style="paint-order:stroke fill markers"/>
-  <path d="m16 39v2h3c0.554 0 1-0.446 1-1s-0.446-1-1-1h-3zm0 3v2h3c0.554 0 1-0.446 1-1s-0.446-1-1-1h-3zm0 3v2h3c0.554 0 1-0.446 1-1s-0.446-1-1-1h-3z" opacity=".35" style="paint-order:stroke fill markers"/>
-  <path d="m48 39v2h-3c-0.554 0-1-0.446-1-1s0.446-1 1-1zm0 3v2h-3c-0.554 0-1-0.446-1-1s0.446-1 1-1zm0 3v2h-3c-0.554 0-1-0.446-1-1s0.446-1 1-1z" opacity=".35" style="paint-order:stroke fill markers"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1"
+   id="svg3650"
+   sodipodi:docname="uninterruptible-power-supply.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3654" />
+  <sodipodi:namedview
+     id="namedview3652"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3650" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#f2f2f2"
+     style="paint-order:stroke fill markers;fill:#f8f8f2"
+     id="circle3628" />
+  <rect
+     transform="matrix(0,-1,-1,0,0,0)"
+     x="-51"
+     y="-48"
+     width="38"
+     height="32"
+     rx="2.7141"
+     ry="2.909"
+     fill="#8e8e8e"
+     stroke-width=".74617"
+     id="rect3630"
+     style="fill:#9ea0a6" />
+  <path
+     d="m42 13v20c0 5.54-4.46 10-10 10s-10-4.46-10-10v-20z"
+     opacity=".5"
+     stroke-width=".71429"
+     id="path3632" />
+  <g
+     stroke-width=".66667"
+     id="g3640">
+    <circle
+       cx="32"
+       cy="34"
+       r="4"
+       fill="#3697c4"
+       id="circle3634"
+       style="fill:#13b1d5" />
+    <circle
+       cx="32"
+       cy="24"
+       r="2"
+       fill="#ff6e40"
+       id="circle3636"
+       style="fill:#ff5555" />
+    <circle
+       cx="32"
+       cy="18"
+       r="2"
+       fill="#76ff03"
+       id="circle3638"
+       style="fill:#50fa7b" />
+  </g>
+  <g
+     id="g3648">
+    <path
+       d="m24 49c-1.108 0-2 0.892-2 2h20c0-1.108-0.892-2-2-2h-16z"
+       opacity=".35"
+       style="paint-order:stroke fill markers"
+       id="path3642" />
+    <path
+       d="m16 39v2h3c0.554 0 1-0.446 1-1s-0.446-1-1-1h-3zm0 3v2h3c0.554 0 1-0.446 1-1s-0.446-1-1-1h-3zm0 3v2h3c0.554 0 1-0.446 1-1s-0.446-1-1-1h-3z"
+       opacity=".35"
+       style="paint-order:stroke fill markers"
+       id="path3644" />
+    <path
+       d="m48 39v2h-3c-0.554 0-1-0.446-1-1s0.446-1 1-1zm0 3v2h-3c-0.554 0-1-0.446-1-1s0.446-1 1-1zm0 3v2h-3c-0.554 0-1-0.446-1-1s0.446-1 1-1z"
+       opacity=".35"
+       style="paint-order:stroke fill markers"
+       id="path3646" />
+  </g>
 </svg>
