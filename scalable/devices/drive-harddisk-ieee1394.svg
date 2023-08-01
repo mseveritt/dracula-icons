@@ -1,8 +1,67 @@
-<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <circle cx="32" cy="32" r="27" fill="#666" style="paint-order:stroke fill markers"/>
- <circle cx="32" cy="32" r="21" fill="#fff" stroke-width="1.3125" style="paint-order:markers stroke fill"/>
- <circle cx="32" cy="32" r="18" fill="#537bbc" stroke-width="1.2857" style="paint-order:markers stroke fill"/>
- <g transform="translate(0 -.1265)" fill="#fff">
-  <path d="m29.309 37.485h5.387v2.02h-5.387zm0 3.367h5.387v2.02h-5.387zm2.693-14.142a4.714 4.714 0 0 0-4.714 4.714 4.714 4.714 0 0 0 4.714 4.714 4.714 4.714 0 0 0 4.714-4.714 4.714 4.714 0 0 0-4.714-4.714zm0 2.02a2.694 2.694 0 0 1 2.694 2.694 2.694 2.694 0 0 1-2.694 2.694 2.694 2.694 0 0 1-2.693-2.694 2.694 2.694 0 0 1 2.693-2.694zm6.188 0.27-3.809-3.81 3.81-3.809 3.809 3.81zm-8.571-3.81-3.81 3.81-1.428-1.429 3.81-3.81zm-2.381-2.38-3.81 3.809-1.428-1.429 3.81-3.809z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1"
+   id="svg9203"
+   sodipodi:docname="drive-harddisk-ieee1394.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9207" />
+  <sodipodi:namedview
+     id="namedview9205"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9203" />
+  <circle
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#666"
+     style="paint-order:stroke fill markers;fill:#717380"
+     id="circle9193" />
+  <circle
+     cx="32"
+     cy="32"
+     r="21"
+     fill="#fff"
+     stroke-width="1.3125"
+     style="paint-order:markers stroke fill;fill:#f8f8f2"
+     id="circle9195" />
+  <circle
+     cx="32"
+     cy="32"
+     r="18"
+     fill="#537bbc"
+     stroke-width="1.2857"
+     style="paint-order:markers stroke fill;fill:#6272a4"
+     id="circle9197" />
+  <g
+     transform="translate(0 -.1265)"
+     fill="#fff"
+     id="g9201"
+     style="fill:#f8f8f2">
+    <path
+       d="m29.309 37.485h5.387v2.02h-5.387zm0 3.367h5.387v2.02h-5.387zm2.693-14.142a4.714 4.714 0 0 0-4.714 4.714 4.714 4.714 0 0 0 4.714 4.714 4.714 4.714 0 0 0 4.714-4.714 4.714 4.714 0 0 0-4.714-4.714zm0 2.02a2.694 2.694 0 0 1 2.694 2.694 2.694 2.694 0 0 1-2.694 2.694 2.694 2.694 0 0 1-2.693-2.694 2.694 2.694 0 0 1 2.693-2.694zm6.188 0.27-3.809-3.81 3.81-3.809 3.809 3.81zm-8.571-3.81-3.81 3.81-1.428-1.429 3.81-3.81zm-2.381-2.38-3.81 3.809-1.428-1.429 3.81-3.809z"
+       id="path9199"
+       style="fill:#f8f8f2" />
+  </g>
 </svg>
