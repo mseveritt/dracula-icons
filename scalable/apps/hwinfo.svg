@@ -35,7 +35,7 @@
      d="M 32,5 A 27,27 0 0 0 5,32 27,27 0 0 0 13.9082,52 h 36.184 a 27,27 0 0 0 8.9082,-20 27,27 0 0 0 -27,-27 z"
      fill="#388e3c"
      stroke-width="3.7796"
-     style="mix-blend-mode:darken;fill:#46c66a;paint-order:stroke fill markers;opacity:0.5"
+     style="mix-blend-mode:darken;fill:#44c367;paint-order:stroke fill markers;opacity:0.5"
      id="path17999" />
   <path
      d="m13.928 52.02a27 27 0 0 0 5.7988 4h3.2734c0.554 0 1-0.446 1-1v-3h-10.072zm13.072 0v3c0 0.554 0.446 1 1 1h16.322a27 27 0 0 0 5.748-4h-23.07z"
@@ -47,7 +47,7 @@
      fill="#43a047"
      fill-rule="evenodd"
      id="path18003"
-     style="fill:#46c66a" />
+     style="fill:#44c367" />
   <circle
      cx="53.5"
      cy="39.5"
@@ -81,7 +81,7 @@
      fill="#43a047"
      fill-rule="evenodd"
      id="path18013"
-     style="fill:#46c66a" />
+     style="fill:#44c367" />
   <circle
      cx="53.5"
      cy="21.5"

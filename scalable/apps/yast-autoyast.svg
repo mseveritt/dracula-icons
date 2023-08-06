@@ -35,7 +35,7 @@
      cx="32"
      cy="32"
      r="27"
-     fill="#46c66a"
+     fill="#44c367"
      stroke-width="3.7796"
      style="paint-order:stroke fill markers"
      id="circle42490" />
@@ -47,7 +47,7 @@
      id="path42492" />
   <path
      d="m32 5a27 27 0 0 0-24.553 15.832 33.136 33.136 0 0 0 32.859 29.199 33.136 33.136 0 0 0 14.271-3.2656 27 27 0 0 0 4.4218-14.766 27 27 0 0 0-27-27z"
-     fill="#46c66a"
+     fill="#44c367"
      opacity=".1"
      stroke-width="4.6387"
      style="paint-order:stroke fill markers;opacity:0.8"

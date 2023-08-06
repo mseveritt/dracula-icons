@@ -16,7 +16,7 @@
        id="linearGradient23980"
        inkscape:swatch="solid">
       <stop
-         style="stop-color:#46c66a;stop-opacity:1;"
+         style="stop-color:#44c367;stop-opacity:1;"
          offset="0"
          id="stop23978" />
     </linearGradient>
@@ -45,14 +45,14 @@
      cy="32"
      r="27"
      fill="#388e3c"
-     style="mix-blend-mode:darken;fill:#46c66a;fill-opacity:1;paint-order:stroke fill markers;opacity:0.5"
+     style="mix-blend-mode:darken;fill:#44c367;fill-opacity:1;paint-order:stroke fill markers;opacity:0.5"
      id="circle17347" />
   <path
      d="m32 5a27 27 0 0 0-25.309 17.691l2.3086 2.3086h38l7-8h0.42383a27 27 0 0 0-2.2734-2.9199l-6.1504 6.9199h-3l7.5898-8.5371a27 27 0 0 0-18.59-7.4629zm-16 32-8.3262 6.6602a27 27 0 0 0 1.2852 2.3672l3.041-2.0273v2l-2.127 1.418a27 27 0 0 0 6.127 6.293v-6.7109l6-5h3l-6 5v8.6621a27 27 0 0 0 13 3.3379 27 27 0 0 0 23.686-14.037l-4.6855-5.9629h-2l-2-2h-31z"
      fill="#43a047"
      fill-rule="evenodd"
      id="path17349"
-     style="fill:#46c66a" />
+     style="fill:#44c367" />
   <path
      d="m21 22h2v20h-2zm4 0h2v20h-2zm4 0h2v20h-2zm4 0h2v20h-2zm4 0h2v20h-2zm4 0h2v20h-2z"
      fill="#fbc02d"
