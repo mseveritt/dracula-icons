@@ -42,13 +42,13 @@
      cx="12.171"
      cy="5.82"
      r=".794"
-     fill="#fff"
+     fill="#f8f8f2"
      style="paint-order:stroke markers fill;fill:#f8f8f2"
      id="circle4" />
   <path
      transform="scale(.26458)"
      d="m38 28.99-20.479 20.477c-0.23801-0.3348-0.2004-0.79137 0.087891-1.084l5.8926-5.8965-8.5039-8.4961-8.0469 8.0566a27 27 0 0 0 25.049 16.953 27 27 0 0 0 23.035-12.979l-17.035-17.031z"
-     fill="#fff"
+     fill="#f8f8f2"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
      id="path6" />
 </svg>
