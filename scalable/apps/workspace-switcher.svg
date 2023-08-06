@@ -37,14 +37,14 @@
     <path
        transform="scale(.26458)"
        d="m32 5v27h-27a27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-27-27z"
-       fill="#638df5"
+       fill="#6272a4"
        stroke-width="3.7796"
        style="paint-order:stroke fill markers;fill:#6272a4"
        id="path2" />
     <path
        transform="scale(.26458)"
        d="m32 5a27 27 0 0 0-27 27h27v-27z"
-       fill="#f9f9f9"
+       fill="#f8f8f2"
        opacity=".5"
        stroke-width="3.7796"
        style="paint-order:stroke fill markers;fill:#cbcccc"
@@ -58,7 +58,7 @@
        id="path6" />
     <path
        d="m8.4665 2.3812a6.0853 6.0853 0 0 0-6.0853 6.0853h6.0853z"
-       fill="#f9f9f9"
+       fill="#f8f8f2"
        stroke-width=".85185"
        style="paint-order:stroke fill markers;fill:#cbcccc"
        id="path8" />
