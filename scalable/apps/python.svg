@@ -24,13 +24,13 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
+     inkscape:cx="27.76055"
+     inkscape:cy="32.09421"
+     inkscape:window-width="1280"
      inkscape:window-height="1361"
-     inkscape:window-x="0"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg8990" />
   <circle
      cx="8.4665"
@@ -41,25 +41,25 @@
      id="circle8978" />
   <g
      transform="matrix(.91011 0 0 .91011 .57631 -254.83)"
-     color="#000000"
+     color="#282a36"
      id="g8988">
     <path
        d="m8.306 283.78c-1.411 0-2.547 0.811-2.547 1.82v0.793h-0.794c-1.007 0-1.819 1.136-1.819 2.546v0.728c0 1.41 0.812 2.547 1.82 2.547h6.614v-6.615c0-1.008-1.136-1.819-2.547-1.819z"
        fill="#3776ab"
        overflow="visible"
        id="path8980"
-       style="fill:#70b7c8" />
+       style="fill:#168daa" />
     <path
        d="m9.033 294.82c1.411 0 2.547-0.81 2.547-1.819v-0.793h0.794c1.007 0 1.819-1.136 1.819-2.547v-0.728c0-1.41-0.812-2.546-1.82-2.546h-0.793v1.455c0 0.806-0.65 1.455-1.455 1.455h-2.91s-1.456 0-1.456 1.456v2.248c0 1.008 1.136 1.82 2.547 1.82z"
        fill="#ffd343"
        overflow="visible"
        id="path8982"
-       style="fill:#f1fa8c" />
+       style="fill:#ffb86c" />
     <circle
        cx="7.611"
        cy="285.33"
        r=".529"
-       fill="#fff"
+       fill="#f8f8f2"
        overflow="visible"
        id="circle8984"
        style="fill:#f8f8f2" />
@@ -67,7 +67,7 @@
        cx="9.744"
        cy="293.52"
        r=".546"
-       fill="#fff"
+       fill="#f8f8f2"
        overflow="visible"
        id="circle8986"
        style="fill:#f8f8f2" />
