@@ -5,7 +5,7 @@
    version="1.1"
    id="svg18047"
    sodipodi:docname="hwinfo.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,19 +23,19 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="36.113837"
-     inkscape:cy="32.031403"
-     inkscape:window-width="1280"
-     inkscape:window-height="1361"
-     inkscape:window-x="1280"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:cx="30.932287"
+     inkscape:cy="32.125613"
+     inkscape:window-width="2560"
+     inkscape:window-height="1373"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg18047" />
   <path
      d="M 32,5 A 27,27 0 0 0 5,32 27,27 0 0 0 13.9082,52 h 36.184 a 27,27 0 0 0 8.9082,-20 27,27 0 0 0 -27,-27 z"
      fill="#388e3c"
      stroke-width="3.7796"
-     style="mix-blend-mode:darken;fill:#44c367;paint-order:stroke fill markers;opacity:0.5"
+     style="mix-blend-mode:darken;fill:#46c66a;paint-order:stroke fill markers;opacity:1"
      id="path17999" />
   <path
      d="m13.928 52.02a27 27 0 0 0 5.7988 4h3.2734c0.554 0 1-0.446 1-1v-3h-10.072zm13.072 0v3c0 0.554 0.446 1 1 1h16.322a27 27 0 0 0 5.748-4h-23.07z"
@@ -47,7 +47,7 @@
      fill="#43a047"
      fill-rule="evenodd"
      id="path18003"
-     style="fill:#44c367" />
+     style="fill:#50fa7b;opacity:0.7" />
   <circle
      cx="53.5"
      cy="39.5"
@@ -81,7 +81,7 @@
      fill="#43a047"
      fill-rule="evenodd"
      id="path18013"
-     style="fill:#44c367" />
+     style="fill:#50fa7b;opacity:0.7" />
   <circle
      cx="53.5"
      cy="21.5"
