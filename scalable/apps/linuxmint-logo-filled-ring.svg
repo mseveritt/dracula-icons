@@ -145,7 +145,7 @@
        id="g41">
       <path
          d="m55.033 186.93c-30.34 0-55.033 24.693-55.033 55.033s24.693 55.033 55.033 55.033 55.033-24.693 55.033-55.033-24.693-55.033-55.033-55.033zm0 9.1719c25.383 0 45.861 20.479 45.861 45.861 0 25.383-20.479 45.861-45.861 45.861s-45.861-20.479-45.861-45.861c0-25.383 20.479-45.861 45.861-45.861z"
-         color="#000000"
+         color="#282a36"
          color-rendering="auto"
          dominant-baseline="auto"
          fill="#2e3440"
@@ -153,19 +153,19 @@
          image-rendering="auto"
          opacity=".318"
          shape-rendering="auto"
-         solid-color="#000000"
-         style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#282a36"
+         solid-color="#282a36"
+         style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#282a36;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#282a36"
          id="path29" />
       <path
          d="m55.033 186.93c-30.34 0-55.033 24.693-55.033 55.033s24.693 55.033 55.033 55.033 55.033-24.693 55.033-55.033-24.693-55.033-55.033-55.033zm0 9.1719c25.383 0 45.861 20.479 45.861 45.861 0 25.383-20.479 45.861-45.861 45.861-25.383 0-45.861-20.479-45.861-45.861 0-25.383 20.479-45.861 45.861-45.861z"
-         color="#000000"
+         color="#282a36"
          color-rendering="auto"
          dominant-baseline="auto"
          fill="url(#linearGradient877)"
          image-rendering="auto"
          shape-rendering="auto"
-         solid-color="#000000"
-         style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#515d85"
+         solid-color="#282a36"
+         style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#282a36;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#515d85"
          id="path31" />
       <g
          transform="matrix(.26458 0 0 .26458 4.2332 186.93)"
@@ -175,15 +175,15 @@
          id="g35">
         <path
            d="m80 104v144c0 35.157 28.843 64 64 64h96c35.157 0 64-28.843 64-64v-80c0-26.32-21.68-48-48-48-12.296 0-23.467 4.8602-32 12.586-8.5332-7.7257-19.704-12.586-32-12.586-26.32 0-48 21.68-48 48v80h32v-80c0-9.0261 6.9739-16 16-16s16 6.9739 16 16v80h32v-80c0-9.0261 6.9739-16 16-16s16 6.9739 16 16v80c0 17.863-14.137 32-32 32h-96c-17.863 0-32-14.137-32-32v-144z"
-           color="#000000"
+           color="#282a36"
            color-rendering="auto"
            dominant-baseline="auto"
            fill="#2e3440"
            image-rendering="auto"
            opacity="1"
            shape-rendering="auto"
-           solid-color="#000000"
-           style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#282a36"
+           solid-color="#282a36"
+           style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#282a36;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#282a36"
            id="path33" />
       </g>
       <g
@@ -192,14 +192,14 @@
          id="g39">
         <path
            d="m80 104v144c0 35.157 28.843 64 64 64h96c35.157 0 64-28.843 64-64v-80c0-26.32-21.68-48-48-48-12.296 0-23.467 4.8602-32 12.586-8.5332-7.7257-19.704-12.586-32-12.586-26.32 0-48 21.68-48 48v80h32v-80c0-9.0261 6.9739-16 16-16s16 6.9739 16 16v80h32v-80c0-9.0261 6.9739-16 16-16s16 6.9739 16 16v80c0 17.863-14.137 32-32 32h-96c-17.863 0-32-14.137-32-32v-144z"
-           color="#000000"
+           color="#282a36"
            color-rendering="auto"
            dominant-baseline="auto"
            fill="url(#linearGradient1132-6-0)"
            image-rendering="auto"
            shape-rendering="auto"
-           solid-color="#000000"
-           style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#515d85"
+           solid-color="#282a36"
+           style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#282a36;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#515d85"
            id="path37" />
       </g>
     </g>
