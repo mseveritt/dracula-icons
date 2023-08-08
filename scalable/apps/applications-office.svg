@@ -39,18 +39,18 @@
        cx="8.4665"
        cy="288.53"
        r="7.1436"
-       fill="#3f51b5"
+       fill="#515d85"
        style="paint-order:stroke markers fill;fill:#515d85"
        id="circle7817" />
     <path
        d="M8.464 282.977a5.556 5.556 0 1 0 5.559 5.56l-.567-.567a5.027 5.027 0 0 0-4.43-4.43l-.562-.563z"
-       fill="#fff"
+       fill="#f8f8f2"
        paint-order="stroke markers fill"
        id="path7819"
        style="fill:#f8f8f2" />
     <path
        d="M5.292 292.238v-.53H9.79v.53zm0-1.323v-.53h6.35v.53zm0-1.323v-.53h6.35v.53zm0-1.323v-.53h6.35v.53z"
-       fill="#ccc"
+       fill="#cbcccc"
        id="path7821"
        style="fill:#9ea0a6" />
   </g>
