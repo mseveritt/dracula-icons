@@ -45,7 +45,7 @@
      style="paint-order:stroke markers fill"
      id="path4" />
   <path
-     fill="#fff"
+     fill="#f8f8f2"
      d="M7.673 7.673v4.762H9.26V7.673z"
      id="path6"
      style="fill:#f8f8f2" />
@@ -53,7 +53,7 @@
      cx="8.466"
      cy="5.821"
      r=".794"
-     fill="#fff"
+     fill="#f8f8f2"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
      id="circle8" />
 </svg>

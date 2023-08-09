@@ -39,7 +39,7 @@
          cx="3231.5"
          cy="891.5"
          r="6.5"
-         color="#000000"
+         color="#282a36"
          fill="#00a0fc"
          id="circle17350" />
     </clipPath>
@@ -50,19 +50,19 @@
        cx="8.4665"
        cy="8.4665"
        r="7.1436"
-       fill="#4d4d4d"
+       fill="#44475a"
        style="paint-order:stroke fill markers;fill:#44475a"
        id="circle17355" />
     <path
        d="m9.8473 2.5466 4.5381 4.5381c-0.52723-2.2523-2.2858-4.0109-4.5381-4.5381z"
-       fill="#fff"
+       fill="#f8f8f2"
        opacity=".5"
        stroke-width=".85185"
        style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="path17357" />
     <path
        d="m8.1952 2.391c-3.2506 0.14506-5.812 2.8216-5.814 6.0755-1e-7 3.3608 2.7245 6.0853 6.0853 6.0853 3.2538-4e-3 5.9287-2.567 6.0719-5.8176z"
-       fill="#fff"
+       fill="#f8f8f2"
        stroke-width=".85185"
        style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="path17359" />
@@ -71,14 +71,14 @@
      cx="8.4665"
      cy="8.4665"
      r="2.6458"
-     fill="#ccc"
+     fill="#cbcccc"
      id="circle17363"
      style="fill:#9ea0a6" />
   <g
      transform="matrix(.40347 0 0 .40347 -1245.7 356.3)"
      clip-path="url(#j)"
      fill="none"
-     stroke="#fff"
+     stroke="#f8f8f2"
      stroke-linecap="round"
      id="g17379">
     <path

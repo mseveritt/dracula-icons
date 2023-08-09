@@ -14,8 +14,8 @@
      id="defs18" />
   <sodipodi:namedview
      id="namedview16"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
+     pagecolor="#f8f8f2"
+     bordercolor="#282a36"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
@@ -35,7 +35,7 @@
      cx="32"
      cy="32"
      r="27"
-     fill="#f2f2f2"
+     fill="#f8f8f2"
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="1.9961"
@@ -67,7 +67,7 @@
        style="fill:#6272a4" />
     <path
        d="m17.552 26.746v3.2836h3.2836v8.5373h3.2836v-8.5373h3.2836v-3.2836z"
-       fill="#fff"
+       fill="#f8f8f2"
        id="path10"
        style="fill:#f8f8f2" />
   </g>

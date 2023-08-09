@@ -38,26 +38,26 @@
        cx="8.4665"
        cy="8.4665"
        r="7.1436"
-       fill="#3f51b5"
+       fill="#515d85"
        style="paint-order:stroke fill markers;fill:#515d85"
        id="circle18024" />
     <path
        d="m9.8473 2.5466 4.5381 4.5381c-0.52723-2.2523-2.2858-4.0109-4.5381-4.5381z"
-       fill="#fff"
+       fill="#f8f8f2"
        opacity=".5"
        stroke-width=".85185"
        style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="path18026" />
     <path
        d="m8.1952 2.391c-3.2506 0.14506-5.812 2.8216-5.814 6.0755-1e-7 3.3608 2.7245 6.0853 6.0853 6.0853 3.2538-4e-3 5.9287-2.567 6.0719-5.8176z"
-       fill="#fff"
+       fill="#f8f8f2"
        stroke-width=".85185"
        style="paint-order:stroke fill markers;fill:#f8f8f2"
        id="path18028" />
   </g>
   <path
      d="m5.292 12.171v-0.53h4.498v0.53zm0-1.323v-0.53h6.35v0.53zm0-1.323v-0.53h6.35v0.53zm0-1.323v-0.53h6.35v0.53z"
-     fill="#ccc"
+     fill="#cbcccc"
      id="path18032"
      style="fill:#9ea0a6" />
 </svg>

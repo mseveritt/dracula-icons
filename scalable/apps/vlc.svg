@@ -51,14 +51,14 @@
     <path
        transform="scale(.26458)"
        d="m56.578 20.904-45.086 28.609a27 27 0 0 0 20.508 9.4863 27 27 0 0 0 27-27 27 27 0 0 0-2.4219-11.096z"
-       fill="#fff"
+       fill="#f8f8f2"
        opacity=".15"
        stroke-width="3.7796"
        id="path6"
        style="fill:#f8f8f2" />
     <path
        d="m10.319 8.467-4.234 2.645v-5.291z"
-       fill="#fff"
+       fill="#f8f8f2"
        id="path8"
        style="fill:#f8f8f2" />
   </g>

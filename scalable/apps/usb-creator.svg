@@ -35,19 +35,19 @@
      cx="32"
      cy="32"
      r="27"
-     fill="#f2f2f2"
+     fill="#f8f8f2"
      stroke-width="3.7796"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
      id="circle2" />
   <path
      d="m20 10h24v16h-24z"
-     fill="#b7b7b7"
+     fill="#9ea0a6"
      stroke-width=".69282"
      id="path4"
      style="fill:#9ea0a6" />
   <path
      d="m13 26v11c0 10.526 8.474 19 19 19s19-8.474 19-19v-11z"
-     fill="#333"
+     fill="#282a36"
      stroke-width=".99895"
      id="path6"
      style="fill:#44475a" />
@@ -100,7 +100,7 @@
      style="fill:#44c367" />
   <path
      d="M41 49l7 8 7-8h-4V39h-6v10z"
-     fill="#fff"
+     fill="#f8f8f2"
      id="path20"
      style="fill:#f8f8f2" />
 </svg>
