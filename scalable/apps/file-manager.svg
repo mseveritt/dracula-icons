@@ -2,18 +2,17 @@
 <svg
    width="64"
    height="64"
-   version="1.1"
    viewBox="0 0 16.933 16.933"
-   id="svg281"
+   version="1.1"
+   id="svg21"
    sodipodi:docname="file-manager.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview283"
+     id="namedview23"
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -23,84 +22,67 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.83317"
+     inkscape:cx="29.895976"
      inkscape:cy="32.031403"
-     inkscape:window-width="1280"
+     inkscape:window-width="2560"
      inkscape:window-height="1361"
-     inkscape:window-x="1280"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg281" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg21" />
   <defs
-     id="defs263">
+     id="defs7">
     <linearGradient
-       id="a-3"
-       x1="30"
-       x2="57"
-       y1="44"
-       y2="44"
+       id="a"
+       x1="42"
+       x2="44"
+       y1="51"
+       y2="55"
        gradientTransform="scale(.26458)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#b" />
-    <linearGradient
-       id="b">
+       gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
-         id="stop257" />
+         id="stop2" />
       <stop
-         stop-opacity="0"
          offset="1"
-         id="stop259" />
+         stop-opacity="0"
+         id="stop4" />
     </linearGradient>
-    <linearGradient
-       id="c"
-       x1="32"
-       x2="32"
-       y1="13"
-       y2="9"
-       gradientTransform="scale(.26458)"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#b" />
   </defs>
   <circle
-     cx="8.4665"
-     cy="8.4665"
-     r="6.6145"
-     fill="#3578c7"
-     style="paint-order:stroke markers fill;opacity:0.9;stroke-width:1.00010531;stroke-dasharray:none;fill:#44475a"
-     id="circle265" />
+     cx="8.466"
+     cy="8.466"
+     r="7.408"
+     fill="#44475a"
+     style="paint-order:stroke fill markers"
+     id="circle9" />
   <path
-     d="m5.1323 3.7041a5.8208 5.8208 0 0 0-2.4866 4.7624 5.8208 5.8208 0 0 0 5.8208 5.8208 5.8208 5.8208 0 0 0 5.8208-5.8208 5.8208 5.8208 0 0 0-2.4794-4.7624z"
-     fill="#f8f8f2"
-     style="paint-order:stroke markers fill;fill:#8894b8"
-     id="path267" />
-  <g
-     id="g275">
-    <path
-       d="m8.4665 1.852a6.6145 6.6145 0 0 0-3.9444 1.3229h7.8976a6.6145 6.6145 0 0 0-3.9532-1.3229z"
-       fill="url(#c)"
-       opacity=".15"
-       style="paint-order:stroke markers fill"
-       id="path269" />
-    <path
-       d="m8.466 4.2332c-0.29211 6.879e-4 -0.38134 0.27599-0.52916 0.52967l-0.30799 0.52812-5.5525 5.292e-4a7.1436 7.1436 0 0 0-0.75343 3.1749 7.1436 7.1436 0 0 0 7.1436 7.1436 7.1436 7.1436 0 0 0 7.1436-7.1436 7.1436 7.1436 0 0 0-1.3999-4.2332h-5.7432z"
-       fill="#6272a4"
-       style="paint-order:stroke markers fill;fill:#44475a"
-       id="path271" />
-    <rect
-       x="9.2599"
-       y="4.762"
-       width="3.969"
-       height=".529"
-       ry=".265"
-       opacity=".25"
-       style="paint-order:stroke markers fill"
-       id="rect273" />
-  </g>
+     fill="url(#a)"
+     d="m15.164 11.613-7.327 4.23a7.408 7.408 0 0 0 .63.032 7.408 7.408 0 0 0 6.697-4.262z"
+     opacity=".1"
+     style="paint-order:stroke fill markers"
+     id="path11" />
   <path
-     d="m15.61 8.4666-7.1437 7.1437a7.1437 7.1437 0 0 0 7.1437-7.1437z"
-     fill="url(#a-3)"
+     d="M8.466 1.058a7.408 7.408 0 0 0-6.692 4.234h5.052l.318-.53c.15-.251.443-.529.793-.529h6.608a7.408 7.408 0 0 0-6.079-3.175z"
+     opacity=".2"
+     id="path13" />
+  <path
+     fill="#fff"
+     d="M4.278 3.704a6.35 6.35 0 0 0-1.29 1.588h3.838l.318-.53c.15-.251.443-.529.793-.529h5.244a6.35 6.35 0 0 0-.523-.529z"
+     style="paint-order:stroke fill markers;fill:#8894b8"
+     id="path15" />
+  <path
+     d="M8.467 1.058A7.408 7.408 0 0 0 3.58 2.91h9.776a7.408 7.408 0 0 0-4.89-1.852z"
      opacity=".15"
+     style="paint-order:stroke fill markers"
+     id="path17" />
+  <rect
+     width="3.969"
+     height=".529"
+     x="9.26"
+     y="4.762"
+     opacity=".25"
+     ry=".265"
      style="paint-order:stroke markers fill"
-     id="path277" />
+     id="rect19" />
 </svg>
