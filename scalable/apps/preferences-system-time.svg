@@ -40,8 +40,8 @@
        cx="8.4665"
        cy="288.54"
        r="7.1436"
-       fill="#fff"
-       stroke="#000"
+       fill="#f8f8f2"
+       stroke="#282a36"
        stroke-opacity=".098039"
        stroke-width=".52916"
        id="circle26747"
@@ -50,12 +50,12 @@
        cx="8.4665"
        cy="288.54"
        r="7.1436"
-       fill="#fff"
+       fill="#f8f8f2"
        id="circle26749"
        style="fill:#f8f8f2" />
     <path
        d="M8.202 284.3h.529v4.233h-.529z"
-       fill="#333"
+       fill="#282a36"
        id="path26751"
        style="fill:#44475a" />
     <path
@@ -68,7 +68,7 @@
        cy="288.53"
        rx=".265"
        ry=".265"
-       fill="#333"
+       fill="#282a36"
        id="ellipse26755"
        style="fill:#44475a" />
   </g>

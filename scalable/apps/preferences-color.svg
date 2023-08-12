@@ -36,13 +36,13 @@
      stroke-width=".963"
      id="g26">
     <path
-       fill="#46a926"
+       fill="#44c367"
        d="M13.323 3.603c-.048.049 2.02 4.86 2.02 4.86l-2.02 4.858s-4.86-2.568-4.86-4.859c0-2.29 4.86-4.859 4.86-4.859z"
        style="isolation:isolate;fill:#44c367"
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
        id="path2" />
     <path
-       fill="#f22c42"
+       fill="#c7484a"
        d="M3.604 13.321c.049-.049-2.02-4.859-2.02-4.859l2.02-4.859s4.86 2.569 4.86 4.86c0 2.29-4.86 4.858-4.86 4.858z"
        style="isolation:isolate;fill:#c7484a"
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
@@ -54,7 +54,7 @@
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
        id="path6" />
     <path
-       fill="#2f5fdd"
+       fill="#168daa"
        d="m3.604 13.321 4.86 2.013s4.81-2.062 4.86-2.013l-4.86-4.859z"
        style="isolation:isolate;fill:#515d85"
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
@@ -66,19 +66,19 @@
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
        id="path10" />
     <path
-       fill="#76c22b"
+       fill="#50fa7b"
        d="m13.328 3.605-2.845 2.844a6.84 6.84 0 0 0 4.863 2.012 6.88 6.88 0 0 0-2.018-4.856z"
        style="isolation:isolate;fill:#50fa7b"
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
        id="path12" />
     <path
-       fill="#1463a5"
+       fill="#6272a4"
        d="M10.476 10.481a6.85 6.85 0 0 0-2.019 4.862h.069a6.88 6.88 0 0 0 4.8-2.013z"
        style="isolation:isolate;fill:#6272a4"
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
        id="path14" />
     <path
-       fill="#2b898f"
+       fill="#168daa"
        d="M15.346 8.469a6.84 6.84 0 0 0-4.87 2.012l2.85 2.85a6.88 6.88 0 0 0 2.02-4.862z"
        style="isolation:isolate;fill:#70b7c8"
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
@@ -90,7 +90,7 @@
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
        id="path18" />
     <path
-       fill="#7839b7"
+       fill="#9576c5"
        d="M6.45 10.475 3.6 13.323a6.88 6.88 0 0 0 4.826 2.02h.043a6.85 6.85 0 0 0-2.019-4.868z"
        style="isolation:isolate;fill:#bd93f9"
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
@@ -102,7 +102,7 @@
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
        id="path22" />
     <path
-       fill="#f34f17"
+       fill="#ff5555"
        d="M3.609 3.602a6.88 6.88 0 0 0-2.021 4.859 6.84 6.84 0 0 0 4.869-2.012z"
        style="isolation:isolate;fill:#ffb86c"
        transform="matrix(1.0382 0 0 1.0384 -.322 -.322)"
@@ -112,13 +112,13 @@
      cx="8.466"
      cy="8.466"
      r="5.292"
-     fill="#fff"
+     fill="#f8f8f2"
      opacity=".35"
      style="paint-order:fill markers stroke;fill:#f8f8f2"
      id="circle28" />
   <g
-     fill="#fff"
-     color="#000"
+     fill="#f8f8f2"
+     color="#282a36"
      id="g36"
      style="fill:#f8f8f2">
     <path
