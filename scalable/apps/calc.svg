@@ -36,13 +36,13 @@
      cx="8.4665"
      cy="8.4665"
      r="7.1436"
-     fill="#f9f9f9"
+     fill="#f8f8f2"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
      id="circle2" />
   <path
      transform="scale(.26458)"
      d="m21 17v4h-4v1h4v4h1v-4h4v-1h-4v-4h-1z"
-     fill="#999"
+     fill="#9ea0a6"
      stroke-width="2.3148"
      style="paint-order:stroke markers fill;fill:#44475a"
      id="path4" />
@@ -59,7 +59,7 @@
      width="2.6458"
      height=".26458"
      ry="0"
-     fill="#fff"
+     fill="#f8f8f2"
      stroke-width=".64559"
      style="paint-order:stroke markers fill;fill:#f8f8f2"
      id="rect8" />
@@ -69,7 +69,7 @@
      width="2.6458"
      height=".26458"
      ry="0"
-     fill="#fff"
+     fill="#f8f8f2"
      stroke-width=".64559"
      style="paint-order:stroke markers fill;fill:#f8f8f2"
      id="rect10" />
@@ -79,13 +79,13 @@
      width="2.3813"
      height=".26458"
      ry="0"
-     fill="#999"
+     fill="#9ea0a6"
      stroke-width=".61246"
      style="paint-order:stroke markers fill;fill:#44475a"
      id="rect12" />
   <path
      d="m11.861 4.7436-0.74834 0.74834-0.74834-0.74834-0.18708 0.18708 0.74834 0.74834-0.74834 0.74834 0.18708 0.18708 0.74834-0.74834 0.74834 0.74834 0.18708-0.18708-0.74834-0.74834 0.74834-0.74834z"
-     fill="#999"
+     fill="#9ea0a6"
      stroke-width=".61246"
      style="paint-order:stroke markers fill;fill:#44475a"
      id="path14" />

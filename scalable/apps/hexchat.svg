@@ -23,7 +23,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
+     inkscape:cx="27.76055"
      inkscape:cy="32.031403"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
@@ -37,7 +37,7 @@
      r="27"
      fill="#262532"
      stroke-width="3.7796"
-     style="paint-order:stroke fill markers;fill:#282a36"
+     style="paint-order:stroke fill markers;fill:#44475a"
      id="circle2" />
   <g
      stroke-width=".892"
@@ -58,7 +58,7 @@
        font-family="sans-serif"
        font-weight="400"
        overflow="visible"
-       style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#ffb86c"
+       style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#282a36;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal;fill:#ffb86c"
        id="path6" />
   </g>
 </svg>

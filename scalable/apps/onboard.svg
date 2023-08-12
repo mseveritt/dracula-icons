@@ -36,12 +36,12 @@
      cx="8.4665"
      cy="8.4665"
      r="7.1436"
-     fill="#f9f9f9"
+     fill="#f8f8f2"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
      id="circle2" />
   <g
      transform="matrix(1.0833 0 0 1.0833 1.3005 -302.69)"
-     fill="#ccc"
+     fill="#cbcccc"
      stroke-width=".265"
      aria-label="O"
      id="g6"
@@ -60,7 +60,7 @@
      id="circle8" />
   <g
      transform="matrix(.77765 0 0 .77765 3.5464 -214.33)"
-     fill="#fff"
+     fill="#f8f8f2"
      stroke-width=".265"
      aria-label="B"
      id="g12"
