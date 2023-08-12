@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 16.933 16.933"
    id="svg18546"
-   sodipodi:docname="cs-applets.svg"
+   sodipodi:docname="dock.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="27.76055"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
+     inkscape:cx="25.625123"
+     inkscape:cy="32.09421"
+     inkscape:window-width="1280"
      inkscape:window-height="1361"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg18546" />
   <rect
      x="1.3229"
@@ -39,7 +39,7 @@
      height="14.287"
      ry="7.1436"
      fill="#a2a1ff"
-     style="paint-order:stroke markers fill;fill:#bd93f9"
+     style="paint-order:stroke markers fill;fill:#9576c5"
      id="rect18528" />
   <rect
      x="3.44"
@@ -47,21 +47,22 @@
      width="10.054"
      height="1.323"
      ry=".265"
-     fill="#fff"
+     fill="#f8f8f2"
      opacity=".35"
      style="paint-order:markers stroke fill"
      id="rect18530" />
   <g
      transform="translate(0,-280.07)"
      fill="#eeedff"
-     id="g18540">
+     id="g18540"
+     style="fill:#f8f8f2">
     <rect
        x="4.498"
        y="290.38"
        width="1.323"
        height="1.323"
        ry=".132"
-       style="paint-order:stroke markers fill"
+       style="paint-order:stroke markers fill;fill:#f8f8f2"
        id="rect18532" />
     <rect
        x="6.703"
@@ -69,7 +70,7 @@
        width="1.323"
        height="1.323"
        ry=".132"
-       style="paint-order:stroke markers fill"
+       style="paint-order:stroke markers fill;fill:#f8f8f2"
        id="rect18534" />
     <rect
        x="8.908"
@@ -77,7 +78,7 @@
        width="1.323"
        height="1.323"
        ry=".132"
-       style="paint-order:stroke markers fill"
+       style="paint-order:stroke markers fill;fill:#f8f8f2"
        id="rect18536" />
     <rect
        x="11.113"
@@ -85,13 +86,13 @@
        width="1.323"
        height="1.323"
        ry=".132"
-       style="paint-order:stroke markers fill"
+       style="paint-order:stroke markers fill;fill:#f8f8f2"
        id="rect18538" />
   </g>
   <path
      d="m8.4666 1.3229c-1.3783 0-2.6625 0.38745-3.7517 1.0583h7.5032c-1.0891-0.67087-2.3734-1.0583-3.7517-1.0583z"
      opacity=".35"
-     style="paint-order:stroke markers fill;fill:#9576c5;opacity:1"
+     style="paint-order:stroke markers fill;opacity:0.35"
      id="path18542" />
   <rect
      x="7.1436"
@@ -100,6 +101,6 @@
      height=".52916"
      ry=".26508"
      opacity=".35"
-     style="paint-order:stroke markers fill;opacity:0.6;fill:#282a36"
+     style="paint-order:stroke markers fill;opacity:0.35"
      id="rect18544" />
 </svg>

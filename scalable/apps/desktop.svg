@@ -24,13 +24,13 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
+     inkscape:cx="27.76055"
+     inkscape:cy="32.09421"
+     inkscape:window-width="1280"
      inkscape:window-height="1361"
-     inkscape:window-x="0"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg19064" />
   <g
      transform="translate(-1.2858e-8 -280.07)"
@@ -50,20 +50,21 @@
        width="10.054"
        height="1.323"
        ry=".265"
-       fill="#fff"
+       fill="#f8f8f2"
        opacity=".35"
        style="paint-order:markers stroke fill;fill:#f8f8f2"
        id="rect19046" />
     <g
        fill="#ccdfff"
-       id="g19056">
+       id="g19056"
+       style="fill:#cbcccc">
       <rect
          x="4.498"
          y="290.38"
          width="1.323"
          height="1.323"
          ry=".132"
-         style="paint-order:stroke markers fill"
+         style="paint-order:stroke markers fill;fill:#cbcccc"
          id="rect19048" />
       <rect
          x="6.703"
@@ -71,7 +72,7 @@
          width="1.323"
          height="1.323"
          ry=".132"
-         style="paint-order:stroke markers fill"
+         style="paint-order:stroke markers fill;fill:#cbcccc"
          id="rect19050" />
       <rect
          x="8.908"
@@ -79,7 +80,7 @@
          width="1.323"
          height="1.323"
          ry=".132"
-         style="paint-order:stroke markers fill"
+         style="paint-order:stroke markers fill;fill:#cbcccc"
          id="rect19052" />
       <rect
          x="11.113"
@@ -87,7 +88,7 @@
          width="1.323"
          height="1.323"
          ry=".132"
-         style="paint-order:stroke markers fill"
+         style="paint-order:stroke markers fill;fill:#cbcccc"
          id="rect19054" />
     </g>
     <path

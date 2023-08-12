@@ -35,13 +35,13 @@
   <path
      transform="scale(.26458)"
      d="m8.9531 17.998a27 27 0 0 0-3.9531 14.002 27 27 0 0 0 27 27 27 27 0 0 0 27-27 27 27 0 0 0-3.9434-14.002 27 27 0 0 0-2e-3 0z"
-     fill="#f9f9f9"
+     fill="#f8f8f2"
      stroke-width="3.7796"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
      id="path37173" />
   <path
      d="m8.4666 1.3229a7.1437 7.1437 0 0 0-6.0978 3.439h12.198a7.1437 7.1437 0 0 0-6.0999-3.439z"
-     fill="#666"
+     fill="#717380"
      stroke-width="1.4072"
      style="paint-order:stroke markers fill;fill:#717380"
      id="path37175" />
@@ -73,7 +73,7 @@
      style="paint-order:stroke markers fill"
      id="rect37181" />
   <g
-     fill="#ccc"
+     fill="#cbcccc"
      id="g37189"
      style="fill:#9ea0a6">
     <path
