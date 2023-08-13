@@ -36,7 +36,7 @@
      cx="8.4665"
      cy="8.4665"
      r="7.1436"
-     fill="#f9f9f9"
+     fill="#f8f8f2"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
      id="circle2" />
   <path
@@ -47,7 +47,7 @@
      id="path4" />
   <path
      d="m7.447 12.719 2.068-4.719h-2.767v-0.611h3.437v0.524l-2.039 4.806z"
-     fill="#333"
+     fill="#282a36"
      font-size="7.457"
      font-weight="400"
      letter-spacing="0"

@@ -33,12 +33,12 @@
      inkscape:current-layer="svg36311" />
   <path
      d="m32 5a27 27 0 0 0-27 27 27 27 0 0 0 3.9453 14.002h46.102a27 27 0 0 0 3.9531-14.002 27 27 0 0 0-27-27z"
-     fill="#f9f9f9"
+     fill="#f8f8f2"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
      id="path36291" />
   <path
      d="m8.9453 46.002a27 27 0 0 0 23.055 12.998 27 27 0 0 0 23.047-12.998h-46.102z"
-     fill="#666"
+     fill="#717380"
      stroke-width="4.9746"
      style="paint-order:stroke markers fill;fill:#717380"
      id="path36293" />
@@ -79,14 +79,14 @@
      id="rect36301" />
   <path
      d="m32.002 14.502a13.002 13.002 0 0 0-13.002 13.002 13.002 13.002 0 0 0 13.002 12.998 13.002 13.002 0 0 0 13.002-13.002 13.002 13.002 0 0 0-13.002-13.002zm0 5.265a7.7331 7.7331 0 0 1 7.7331 7.7331 7.7331 7.7331 0 0 1-7.7331 7.7293 7.7331 7.7331 0 0 1-7.7331-7.7293 7.7331 7.7331 0 0 1 7.7331-7.7331z"
-     fill="#ccc"
+     fill="#cbcccc"
      opacity=".15"
      stroke-width="3.7796"
      style="paint-order:stroke markers fill;fill:#cbcccc"
      id="path36303" />
   <g
      transform="matrix(3.7796 0 0 3.7796 -3.32e-7 -1067.6)"
-     fill="#ccc"
+     fill="#cbcccc"
      style="paint-order:stroke markers fill;fill:#9ea0a6"
      id="g36309">
     <path

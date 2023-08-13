@@ -22,7 +22,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
+     inkscape:cx="27.76055"
      inkscape:cy="32.031403"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
@@ -46,7 +46,8 @@
       <stop
          offset="1"
          stop-opacity="0"
-         id="stop4" />
+         id="stop4"
+         style="stop-color:#282a36;stop-opacity:0;" />
     </linearGradient>
   </defs>
   <path
@@ -59,7 +60,7 @@
      opacity=".15"
      id="path11" />
   <path
-     fill="#fff"
+     fill="#f8f8f2"
      fill-opacity=".987"
      d="M6.086 5.821h4.761c.439 0 .794.356.794.794v3.703c0 .44-.355.794-.794.794H6.086a.793.793 0 0 1-.794-.794V6.615c0-.438.356-.794.794-.794m0 0"
      opacity=".35"
@@ -70,7 +71,7 @@
      opacity=".1"
      id="path15" />
   <path
-     fill="#f0f0f0"
+     fill="#f8f8f2"
      d="M6.615 7.938h3.704c.146 0 .264.118.264.264v.794a.265.265 0 0 1-.264.264H6.615a.265.265 0 0 1-.265-.264v-.794c0-.146.119-.264.265-.264m0 0"
      id="path17"
      style="fill:#cbcccc" />
@@ -80,7 +81,7 @@
      id="path19"
      style="fill:#282a36" />
   <path
-     fill="#f0f0f0"
+     fill="#f8f8f2"
      d="M6.414 7.144h1.99c.035 0 .064.028.064.063v.137a.064.064 0 0 1-.064.064h-1.99a.064.064 0 0 1-.064-.064v-.137c0-.035.029-.063.064-.063m0 0"
      id="path21"
      style="fill:#cbcccc" />
