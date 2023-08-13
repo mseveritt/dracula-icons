@@ -54,13 +54,13 @@
        height="11.113"
        rx="5.556"
        ry="5.556"
-       fill="#fff"
+       fill="#f8f8f2"
        opacity=".25"
        id="rect4"
        style="fill:#f8f8f2" />
     <path
        d="m8.467 284.9-0.982 1.179a2.646 2.646 0 0 0-1.664 2.46 2.646 2.646 0 1 0 5.291 0c0-1.116-0.687-2.071-1.663-2.46z"
-       fill="#fff"
+       fill="#f8f8f2"
        id="path6"
        style="fill:#f8f8f2" />
   </g>
