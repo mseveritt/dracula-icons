@@ -1,43 +1,346 @@
-<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="16" cy="16" r="14" fill="#4d4d4d" stroke-width=".51852" style="paint-order:stroke fill markers"/>
- <path d="m16 4v7h-1v-6.9531a12 12 0 0 0-1 0.12305v6.8301h-1v-6.6094a12 12 0 0 0-1 0.31055v6.2988h-1v-5.8926a12 12 0 0 0-1 0.51758v5.375h-4.8945a12 12 0 0 0-0.4043 1h5.2988v1h-5.6055a12 12 0 0 0-0.21289 1h5.8184v1h-5.9492a12 12 0 0 0-0.050781 1h6v1h-5.9531a12 12 0 0 0 0.12305 1h5.8301v1h-5.6094a12 12 0 0 0 0.31055 1h5.2988v1h-4.8926a12 12 0 0 0 0.51758 1h4.375v4.3809a12 12 0 0 0 1 0.51367v-4.8945h1v5.2988a12 12 0 0 0 1 0.30664v-5.6055h1v5.8184a12 12 0 0 0 1 0.13086v-5.9492h1v6a12 12 0 0 0 1-0.046875v-5.9531h1v5.8301a12 12 0 0 0 1-0.2207v-5.6094h1v5.2988a12 12 0 0 0 1-0.40625v-4.8926h5.3809a12 12 0 0 0 0.51367-1h-5.8945v-1h6.2988a12 12 0 0 0 0.30664-1h-6.6055v-1h6.8184a12 12 0 0 0 0.13086-1h-6.9492v-1h7a12 12 0 0 0-0.046875-1h-6.9531v-1h6.8301a12 12 0 0 0-0.2207-1h-6.6094v-1h6.2988a12 12 0 0 0-0.40625-1h-5.8926v-5.8945a12 12 0 0 0-1-0.4043v6.2988h-1v-6.6055a12 12 0 0 0-1-0.21289v6.8184h-1v-6.9492a12 12 0 0 0-1-0.050781zm-5 8h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm-8 2h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm-8 2h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm-8 2h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm-8 2h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1z" fill="#f8c44e" style="paint-order:stroke fill markers"/>
- <circle cx="16" cy="16" r="11" fill="#808080" stroke-width=".40741" style="paint-order:stroke fill markers"/>
- <g>
-  <rect x="10" y="11" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="12" y="11" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="14" y="11" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="16" y="11" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="18" y="11" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="20" y="11" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="10" y="13" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="12" y="13" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="14" y="13" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="16" y="13" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="18" y="13" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="20" y="13" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="10" y="15" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="12" y="15" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="14" y="15" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="16" y="15" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="18" y="15" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="20" y="15" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="10" y="17" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="12" y="17" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="14" y="17" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="16" y="17" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="18" y="17" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="20" y="17" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="10" y="19" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="12" y="19" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="14" y="19" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="16" y="19" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="18" y="19" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="20" y="19" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="10" y="21" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="12" y="21" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="14" y="21" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="16" y="21" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="18" y="21" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
-  <rect x="20" y="21" width="1" height="1" opacity=".15" style="paint-order:stroke fill markers"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg317"
+   sodipodi:docname="cpu.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs321" />
+  <sodipodi:namedview
+     id="namedview319"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="31.84375"
+     inkscape:cx="14.916585"
+     inkscape:cy="16.015702"
+     inkscape:window-width="1280"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg317" />
+  <circle
+     cx="16"
+     cy="16"
+     r="14"
+     fill="#44475a"
+     stroke-width=".51852"
+     style="paint-order:stroke fill markers"
+     id="circle237" />
+  <path
+     d="m16 4v7h-1v-6.9531a12 12 0 0 0-1 0.12305v6.8301h-1v-6.6094a12 12 0 0 0-1 0.31055v6.2988h-1v-5.8926a12 12 0 0 0-1 0.51758v5.375h-4.8945a12 12 0 0 0-0.4043 1h5.2988v1h-5.6055a12 12 0 0 0-0.21289 1h5.8184v1h-5.9492a12 12 0 0 0-0.050781 1h6v1h-5.9531a12 12 0 0 0 0.12305 1h5.8301v1h-5.6094a12 12 0 0 0 0.31055 1h5.2988v1h-4.8926a12 12 0 0 0 0.51758 1h4.375v4.3809a12 12 0 0 0 1 0.51367v-4.8945h1v5.2988a12 12 0 0 0 1 0.30664v-5.6055h1v5.8184a12 12 0 0 0 1 0.13086v-5.9492h1v6a12 12 0 0 0 1-0.046875v-5.9531h1v5.8301a12 12 0 0 0 1-0.2207v-5.6094h1v5.2988a12 12 0 0 0 1-0.40625v-4.8926h5.3809a12 12 0 0 0 0.51367-1h-5.8945v-1h6.2988a12 12 0 0 0 0.30664-1h-6.6055v-1h6.8184a12 12 0 0 0 0.13086-1h-6.9492v-1h7a12 12 0 0 0-0.046875-1h-6.9531v-1h6.8301a12 12 0 0 0-0.2207-1h-6.6094v-1h6.2988a12 12 0 0 0-0.40625-1h-5.8926v-5.8945a12 12 0 0 0-1-0.4043v6.2988h-1v-6.6055a12 12 0 0 0-1-0.21289v6.8184h-1v-6.9492a12 12 0 0 0-1-0.050781zm-5 8h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm-8 2h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm-8 2h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm-8 2h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm-8 2h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1zm2 0h1v1h-1v-1z"
+     fill="#f8c44e"
+     style="paint-order:stroke fill markers;fill:#ffb86c"
+     id="path239" />
+  <circle
+     cx="16"
+     cy="16"
+     r="11"
+     fill="#717380"
+     stroke-width=".40741"
+     style="paint-order:stroke fill markers"
+     id="circle241" />
+  <g
+     id="g315">
+    <rect
+       x="10"
+       y="11"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect243" />
+    <rect
+       x="12"
+       y="11"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect245" />
+    <rect
+       x="14"
+       y="11"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect247" />
+    <rect
+       x="16"
+       y="11"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect249" />
+    <rect
+       x="18"
+       y="11"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect251" />
+    <rect
+       x="20"
+       y="11"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect253" />
+    <rect
+       x="10"
+       y="13"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect255" />
+    <rect
+       x="12"
+       y="13"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect257" />
+    <rect
+       x="14"
+       y="13"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect259" />
+    <rect
+       x="16"
+       y="13"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect261" />
+    <rect
+       x="18"
+       y="13"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect263" />
+    <rect
+       x="20"
+       y="13"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect265" />
+    <rect
+       x="10"
+       y="15"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect267" />
+    <rect
+       x="12"
+       y="15"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect269" />
+    <rect
+       x="14"
+       y="15"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect271" />
+    <rect
+       x="16"
+       y="15"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect273" />
+    <rect
+       x="18"
+       y="15"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect275" />
+    <rect
+       x="20"
+       y="15"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect277" />
+    <rect
+       x="10"
+       y="17"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect279" />
+    <rect
+       x="12"
+       y="17"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect281" />
+    <rect
+       x="14"
+       y="17"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect283" />
+    <rect
+       x="16"
+       y="17"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect285" />
+    <rect
+       x="18"
+       y="17"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect287" />
+    <rect
+       x="20"
+       y="17"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect289" />
+    <rect
+       x="10"
+       y="19"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect291" />
+    <rect
+       x="12"
+       y="19"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect293" />
+    <rect
+       x="14"
+       y="19"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect295" />
+    <rect
+       x="16"
+       y="19"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect297" />
+    <rect
+       x="18"
+       y="19"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect299" />
+    <rect
+       x="20"
+       y="19"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect301" />
+    <rect
+       x="10"
+       y="21"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect303" />
+    <rect
+       x="12"
+       y="21"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect305" />
+    <rect
+       x="14"
+       y="21"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect307" />
+    <rect
+       x="16"
+       y="21"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect309" />
+    <rect
+       x="18"
+       y="21"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect311" />
+    <rect
+       x="20"
+       y="21"
+       width="1"
+       height="1"
+       opacity=".15"
+       style="paint-order:stroke fill markers"
+       id="rect313" />
+  </g>
 </svg>
