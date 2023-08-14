@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="default-folder-stack.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="28.70265"
+     inkscape:cy="36.679097"
+     inkscape:window-width="1280"
+     inkscape:window-height="1361"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg21" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="a"
+       x1="42"
+       x2="44"
+       y1="51"
+       y2="55"
+       gradientTransform="scale(.26458)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <circle
+     cx="8.466"
+     cy="8.466"
+     r="7.408"
+     fill="#44475a"
+     style="paint-order:stroke fill markers"
+     id="circle9" />
+  <path
+     class="ColorScheme-Background"
+     d="m 7.1544408,12.346432 c -0.71153,-0.180511 -1.3083124,-0.337231 -1.3261449,-0.348264 -0.044761,-0.02767 -0.0416,-0.63766 0.0033,-0.63766 0.019669,0 0.5846648,0.139925 1.2555291,0.310959 0.6708907,0.171028 1.2885483,0.310959 1.3726312,0.310959 0.08407,0 0.7064765,-0.1396 1.3831622,-0.310245 0.6766846,-0.170626 1.2446806,-0.301354 1.2622216,-0.290507 0.04312,0.02665 0.04088,0.590883 -0.0024,0.617658 -0.02459,0.01521 -2.6545124,0.68539 -2.6545124,0.676447 0,-6.35e-4 -0.5821512,-0.148852 -1.2937076,-0.329373 z m -0.04256,-1.565694 c -0.6745948,-0.1741 -1.2466656,-0.329849 -1.2712714,-0.346147 -0.029061,-0.0192 -0.044761,-0.131535 -0.044761,-0.320113 0,-0.2584459 0.0075,-0.2905069 0.06779,-0.2905069 0.03729,0 0.6217321,0.139938 1.2987611,0.3109579 0.6770289,0.171029 1.271483,0.310959 1.3210121,0.310959 0.049521,0 0.6422898,-0.139925 1.3172815,-0.310959 0.6749909,-0.1710279 1.2524329,-0.3109579 1.2832299,-0.3109579 0.04679,0 0.05426,0.05239 0.04543,0.3188689 l -0.01063,0.31887 -1.2804256,0.320854 C 9.13407,10.959029 8.5084751,11.102042 8.4481248,11.100349 8.3877558,11.098649 7.7864414,10.954852 7.111873,10.780765 Z m 0.0069,-1.5422789 C 6.4279145,9.0620626 5.846901,8.901969 5.8276397,8.8827078 5.8083811,8.8634491 5.7974487,8.7101367 5.8033488,8.5420105 L 5.8141198,8.2363434 8.4683675,7.5746071 9.610657,7.8604044 c 0.628267,0.1571832 1.228727,0.3097945 1.334373,0.3391627 l 0.192065,0.053371 v 0.3086568 c 0,0.2567625 -0.01077,0.3142923 -0.06402,0.3422582 -0.08326,0.0437 -2.5762495,0.665414 -2.6453309,0.659699 -0.02899,-0.0024 -0.6179486,-0.14868 -1.3088415,-0.325087 z"
+     fill="#ffffff"
+     id="path55951"
+     style="color:#f8f8f2;fill:#8894b8;stroke-width:0.264578" />
+  <path
+     fill="url(#a)"
+     d="m15.164 11.613-7.327 4.23a7.408 7.408 0 0 0 .63.032 7.408 7.408 0 0 0 6.697-4.262z"
+     opacity=".1"
+     style="paint-order:stroke fill markers"
+     id="path11" />
+  <path
+     d="M8.466 1.058a7.408 7.408 0 0 0-6.692 4.234h5.052l.318-.53c.15-.251.443-.529.793-.529h6.608a7.408 7.408 0 0 0-6.079-3.175z"
+     fill="#7b7bbd"
+     id="path13" />
+  <path
+     fill="#fff"
+     d="M4.278 3.704a6.35 6.35 0 0 0-1.29 1.588h3.838l.318-.53c.15-.251.443-.529.793-.529h5.244a6.35 6.35 0 0 0-.523-.529z"
+     style="paint-order:stroke fill markers;fill:#8894b8"
+     id="path15" />
+  <path
+     d="M8.467 1.058A7.408 7.408 0 0 0 3.58 2.91h9.776a7.408 7.408 0 0 0-4.89-1.852z"
+     opacity=".15"
+     style="paint-order:stroke fill markers"
+     id="path17" />
+  <rect
+     width="3.969"
+     height=".529"
+     x="9.26"
+     y="4.762"
+     opacity=".25"
+     ry=".265"
+     style="paint-order:stroke markers fill"
+     id="rect19" />
+</svg>

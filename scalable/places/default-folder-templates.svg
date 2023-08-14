@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg21"
+   sodipodi:docname="default-folder-templates.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="28.70265"
+     inkscape:cy="36.679097"
+     inkscape:window-width="1280"
+     inkscape:window-height="1361"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg21" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="a"
+       x1="42"
+       x2="44"
+       y1="51"
+       y2="55"
+       gradientTransform="scale(.26458)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <circle
+     cx="8.466"
+     cy="8.466"
+     r="7.408"
+     fill="#44475a"
+     style="paint-order:stroke fill markers"
+     id="circle9" />
+  <path
+     fill="url(#a)"
+     d="m15.164 11.613-7.327 4.23a7.408 7.408 0 0 0 .63.032 7.408 7.408 0 0 0 6.697-4.262z"
+     opacity=".1"
+     style="paint-order:stroke fill markers"
+     id="path11" />
+  <path
+     d="M8.466 1.058a7.408 7.408 0 0 0-6.692 4.234h5.052l.318-.53c.15-.251.443-.529.793-.529h6.608a7.408 7.408 0 0 0-6.079-3.175z"
+     fill="#7b7bbd"
+     id="path13" />
+  <path
+     fill="#fff"
+     d="M4.278 3.704a6.35 6.35 0 0 0-1.29 1.588h3.838l.318-.53c.15-.251.443-.529.793-.529h5.244a6.35 6.35 0 0 0-.523-.529z"
+     style="paint-order:stroke fill markers;fill:#8894b8"
+     id="path15" />
+  <path
+     d="M8.467 1.058A7.408 7.408 0 0 0 3.58 2.91h9.776a7.408 7.408 0 0 0-4.89-1.852z"
+     opacity=".15"
+     style="paint-order:stroke fill markers"
+     id="path17" />
+  <rect
+     width="3.969"
+     height=".529"
+     x="9.26"
+     y="4.762"
+     opacity=".25"
+     ry=".265"
+     style="paint-order:stroke markers fill"
+     id="rect19" />
+  <path
+     class="ColorScheme-Background"
+     d="M 6.8797731,7.4090908 A 0.52791272,0.52791272 0 0 0 6.349876,7.9380089 v 3.1744081 c 0,0.292941 0.2359587,0.528918 0.5298971,0.528918 h 3.1733499 c 0.292941,0 0.529897,-0.235959 0.529897,-0.529897 V 7.9380883 A 0.52791272,0.52791272 0 0 0 10.053123,7.4081912 H 6.8797731 Z m 0,0.2639537 A 0.26494853,0.26494853 0 0 1 7.1437268,7.937993 0.26494853,0.26494853 0 0 1 6.8787782,8.2019468 0.26494853,0.26494853 0 0 1 6.6148245,7.937993 0.26494853,0.26494853 0 0 1 6.8787782,7.6730445 Z m 3.1733499,0 A 0.26494853,0.26494853 0 0 1 10.318072,7.937993 0.26494853,0.26494853 0 0 1 10.053123,8.2019468 0.26494853,0.26494853 0 0 1 9.7891693,7.937993 0.26494853,0.26494853 0 0 1 10.053123,7.6730445 Z M 7.9364981,8.4669112 h 1.0588151 c 0.2929409,0 0.5289182,0.2359587 0.5289182,0.5289181 v 1.0578097 c 0,0.293946 -0.2359587,0.529897 -0.5298971,0.529897 H 7.9375299 A 0.52791272,0.52791272 0 0 1 7.4086118,10.053639 V 8.9958293 c 0,-0.2929409 0.2359587,-0.5298971 0.5298971,-0.5298971 z m 0,0.2639537 A 0.26395372,0.26395372 0 0 0 7.6725444,8.9958134 v 1.0578096 c 0,0.146973 0.117978,0.264949 0.2639537,0.264949 H 8.9953132 A 0.26395372,0.26395372 0 0 0 9.259267,10.053623 V 8.9958134 A 0.26395372,0.26395372 0 0 0 8.9953132,8.7308649 Z M 6.8796937,10.848495 A 0.26494853,0.26494853 0 0 1 7.1446422,11.113444 0.26494853,0.26494853 0 0 1 6.8796937,11.377397 0.26494853,0.26494853 0 0 1 6.61574,11.113444 0.26494853,0.26494853 0 0 1 6.8796937,10.848495 Z m 3.1744083,0 a 0.26494853,0.26494853 0 0 1 0.264948,0.264949 0.26494853,0.26494853 0 0 1 -0.264948,0.263953 0.26494853,0.26494853 0 0 1 -0.2639538,-0.263953 0.26494853,0.26494853 0 0 1 0.2639538,-0.264949 z"
+     fill="#ffffff"
+     id="path56575"
+     style="color:#f8f8f2;fill:#8894b8;stroke-width:0.264578" />
+</svg>

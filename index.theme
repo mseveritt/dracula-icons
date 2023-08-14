@@ -5,20 +5,7 @@ Inherits=Tela-circle-dracula-dark,breeze-dark,Zafiro,ubuntu-mono-dark,Mint-X,ele
 Example=folder
 
 # Directory list
-Directories=16/mimetypes,22/mimetypes,32/devices,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,16@2x/mimetypes,22@2x/mimetypes,32@2x/devices,scalable@2x/apps,scalable@2x/devices,scalable@2x/places,scalable@2x/mimetypes
-
-# 16x16
-
-[16/mimetypes]
-Context=MimeTypes
-Size=16
-Type=Fixed
-
-# 22x22
-[22/mimetypes]
-Context=MimeTypes
-Size=22
-Type=Fixed
+Directories=32/devices,scalable/apps,scalable/devices,scalable/places,scalable/mimetypes,16@2x/mimetypes,22@2x/mimetypes,32@2x/devices,scalable@2x/apps,scalable@2x/devices,scalable@2x/places,scalable@2x/mimetypes
 
 # 32x32
 [32/devices]
