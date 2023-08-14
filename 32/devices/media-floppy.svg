@@ -1,6 +1,60 @@
-<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <circle cx="16" cy="16" r="14" fill="#4d4d4d" stroke-width=".53846" style="paint-order:stroke markers fill"/>
- <path d="m6.375 16c-0.76175 0-1.375 0.5575-1.375 1.25v5.668a13 13 0 0 0 6.0078 5.082h9.9648a13 13 0 0 0 6.0273-5.1016v-5.6484c0-0.6925-0.61325-1.25-1.375-1.25h-19.25z" fill="#fff" stroke-width=".97382"/>
- <path d="m5.7598 24a13 13 0 0 0 10.24 5 13 13 0 0 0 10.229-5h-20.469z" fill="#ffae3f" stroke-width="1.3772"/>
- <path d="m16 3a13 13 0 0 0-6 1.4727v6.7969c0 0.8316 0.62662 1.5 1.4062 1.5h15.188c0.7785 0 1.4062-0.6684 1.4062-1.5v-0.24219a13 13 0 0 0-12-8.0273zm3.1895 1.4453a12 12 0 0 1 6.8105 4.9355v0.61914c0 0.554-0.446 1-1 1h-5c-0.554 0-1-0.446-1-1v-5c0-0.2103 0.079406-0.394 0.18945-0.55469z" fill="#fff" opacity=".75" stroke-width="1.0788"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg10"
+   sodipodi:docname="media-floppy.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="31.84375"
+     inkscape:cx="14.916585"
+     inkscape:cy="16.015702"
+     inkscape:window-width="1280"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <circle
+     cx="16"
+     cy="16"
+     r="14"
+     fill="#44475a"
+     stroke-width=".53846"
+     style="paint-order:stroke markers fill"
+     id="circle2" />
+  <path
+     d="m6.375 16c-0.76175 0-1.375 0.5575-1.375 1.25v5.668a13 13 0 0 0 6.0078 5.082h9.9648a13 13 0 0 0 6.0273-5.1016v-5.6484c0-0.6925-0.61325-1.25-1.375-1.25h-19.25z"
+     fill="#f8f8f2"
+     stroke-width=".97382"
+     id="path4" />
+  <path
+     d="m5.7598 24a13 13 0 0 0 10.24 5 13 13 0 0 0 10.229-5h-20.469z"
+     fill="#ffae3f"
+     stroke-width="1.3772"
+     id="path6"
+     style="fill:#ffb86c" />
+  <path
+     d="m16 3a13 13 0 0 0-6 1.4727v6.7969c0 0.8316 0.62662 1.5 1.4062 1.5h15.188c0.7785 0 1.4062-0.6684 1.4062-1.5v-0.24219a13 13 0 0 0-12-8.0273zm3.1895 1.4453a12 12 0 0 1 6.8105 4.9355v0.61914c0 0.554-0.446 1-1 1h-5c-0.554 0-1-0.446-1-1v-5c0-0.2103 0.079406-0.394 0.18945-0.55469z"
+     fill="#f8f8f2"
+     opacity=".75"
+     stroke-width="1.0788"
+     id="path8"
+     style="fill:#f8f8f2;opacity:0.35" />
 </svg>

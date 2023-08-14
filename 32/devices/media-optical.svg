@@ -1,1 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><g stroke-width="1.857"><path d="M16 2A14 14 0 0 0 2 16a14 14 0 0 0 14 14 14 14 0 0 0 14-14A14 14 0 0 0 16 2zm0 8a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" fill="#fa4d6f"/><path d="M16 3.615A12.385 12.385 0 0 0 3.615 16 12.385 12.385 0 0 0 16 28.385 12.385 12.385 0 0 0 28.385 16 12.385 12.385 0 0 0 16 3.615zm0 7.077A5.308 5.308 0 0 1 21.308 16 5.308 5.308 0 0 1 16 21.308 5.308 5.308 0 0 1 10.692 16 5.308 5.308 0 0 1 16 10.692z" opacity=".15" fill="#fff"/><path d="M16 7.923A8.077 8.077 0 0 0 7.923 16 8.077 8.077 0 0 0 16 24.077 8.077 8.077 0 0 0 24.077 16 8.077 8.077 0 0 0 16 7.923zm0 4.846A3.23 3.23 0 0 1 19.23 16 3.23 3.23 0 0 1 16 19.23 3.23 3.23 0 0 1 12.77 16 3.23 3.23 0 0 1 16 12.77z" opacity=".35"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1"
+   id="svg8"
+   sodipodi:docname="media-optical.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#44475a"
+     bordercolor="#cbcccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#44475a"
+     showgrid="false"
+     inkscape:zoom="15.921875"
+     inkscape:cx="29.895976"
+     inkscape:cy="32.031403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="M32 6A26 26 0 0 0 6 32a26 26 0 0 0 26 26 26 26 0 0 0 26-26A26 26 0 0 0 32 6zm0 14.857A11.143 11.143 0 0 1 43.143 32 11.143 11.143 0 0 1 32 43.143 11.143 11.143 0 0 1 20.857 32 11.143 11.143 0 0 1 32 20.857z"
+     fill="#fa4d6f"
+     id="path2"
+     style="fill:#c7484a" />
+  <path
+     d="M32 9A23 23 0 0 0 9 32a23 23 0 0 0 23 23 23 23 0 0 0 23-23A23 23 0 0 0 32 9zm0 13.143A9.857 9.857 0 0 1 41.857 32 9.857 9.857 0 0 1 32 41.857 9.857 9.857 0 0 1 22.143 32 9.857 9.857 0 0 1 32 22.143z"
+     opacity=".15"
+     fill="#fff"
+     id="path4"
+     style="fill:#f8f8f2" />
+  <path
+     d="M32 17a15 15 0 0 0-15 15 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-15-15zm0 9a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z"
+     opacity=".35"
+     id="path6" />
+</svg>
