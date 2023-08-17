@@ -36,7 +36,7 @@
      cx="8.4665"
      cy="8.4665"
      r="7.1436"
-     fill="#f9f9f9"
+     fill="#f8f8f2"
      style="paint-order:stroke fill markers;fill:#cbcccc"
      id="circle31788" />
   <g
@@ -58,7 +58,7 @@
        width="4.233"
        height=".794"
        ry="0"
-       fill="#fff"
+       fill="#f8f8f2"
        style="paint-order:markers stroke fill;fill:#f8f8f2"
        id="rect31794" />
     <rect
@@ -68,7 +68,7 @@
        width="6.35"
        height=".794"
        ry="0"
-       fill="#fff"
+       fill="#f8f8f2"
        style="paint-order:markers stroke fill;fill:#f8f8f2"
        id="rect31796" />
   </g>
