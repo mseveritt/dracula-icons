@@ -13,7 +13,7 @@ Places, 16/22/24 App, Device and Mimetypes Icon forms taken from  [Tela-Circle-I
 Aim is a complete recoloring based on [dracula color palette (extended)](dracula.gpl):  
 places: done  
 devices: done   
-mimetypes: done
+mimetypes: done  
 apps: WIP
 
 ## Install
