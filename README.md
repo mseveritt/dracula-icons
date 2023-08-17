@@ -12,8 +12,8 @@ Scalable App, Device and Mimetypes Icon forms taken from [dracula-icon](https://
 Places, 16/22/24 App, Device and Mimetypes Icon forms taken from  [Tela-Circle-Icon](https://github.com/vinceliuice/Tela-circle-icon-theme)  
 Aim is a complete recoloring based on [dracula color palette (extended)](dracula.gpl):  
 places: done  
-devices: done  
-mimetypes: scalable: done 16&222: WIP  
+devices: done   
+mimetypes: done
 apps: WIP
 
 ## Install
