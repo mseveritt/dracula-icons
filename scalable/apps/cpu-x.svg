@@ -113,7 +113,7 @@
      y="14"
      width="4"
      height="1"
-     fill="#ffffff"
+     fill="#f8f8f2"
      opacity=".5"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
      id="rect17365" />
@@ -122,7 +122,7 @@
      y="16"
      width="8"
      height="1"
-     fill="#ffffff"
+     fill="#f8f8f2"
      opacity=".5"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
      id="rect17367" />
@@ -131,19 +131,19 @@
      y="16"
      width="3"
      height="2"
-     fill="#ffffff"
+     fill="#f8f8f2"
      opacity=".5"
      style="paint-order:stroke fill markers;fill:#f8f8f2"
      id="rect17369" />
   <g
-     fill="#ffffff"
+     fill="#f8f8f2"
      opacity=".75"
      aria-label="x"
      id="g17373"
      style="fill:#f8f8f2">
     <path
        d="m37.593 26-4.3393 5.8393 4.5643 6.1607h-2.325l-3.4929-4.7143-3.4929 4.7143h-2.325l4.6607-6.2786-4.2643-5.7214h2.325l3.1821 4.275 3.1821-4.275z"
-       fill="#ffffff"
+       fill="#f8f8f2"
        stroke-width=".54857"
        id="path17371"
        style="fill:#f8f8f2" />

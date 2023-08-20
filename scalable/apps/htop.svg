@@ -22,7 +22,7 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
+     inkscape:cx="27.76055"
      inkscape:cy="32.031403"
      inkscape:window-width="2560"
      inkscape:window-height="1361"
@@ -43,7 +43,8 @@
       <stop
          stop-color="#4cc3dc"
          offset="0"
-         id="stop2" />
+         id="stop2"
+         style="stop-color:#f8f8f2;stop-opacity:0;" />
       <stop
          stop-color="#13b1d5"
          offset="1"
