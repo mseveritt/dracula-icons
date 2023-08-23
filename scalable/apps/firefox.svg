@@ -24,13 +24,13 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="27.76055"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
+     inkscape:cx="25.625123"
+     inkscape:cy="32.09421"
+     inkscape:window-width="1280"
      inkscape:window-height="1361"
-     inkscape:window-x="0"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg24" />
   <circle
      cx="296.65"
@@ -39,7 +39,8 @@
      enable-background="new"
      fill="#d5d3cf"
      stroke-width=".87152"
-     id="circle2" />
+     id="circle2"
+     style="fill:#cbcccc" />
   <g
      stroke-width=".18455"
      id="g20">
@@ -91,5 +92,6 @@
      enable-background="new"
      fill="#d5d3cf"
      stroke-width=".87152"
-     id="circle22" />
+     id="circle22"
+     style="fill:#cbcccc" />
 </svg>
