@@ -35,12 +35,12 @@
      cx="32"
      cy="32"
      r="27"
-     fill="#999"
+     fill="#9ea0a6"
      style="paint-order:stroke fill markers;fill:#9ea0a6"
      id="circle9769" />
   <path
      d="m32 6.0004a26 26 0 0 0-26 26 26 26 0 0 0 1.04 7.2352v-2.0352c0-1.7285 1.3915-3.12 3.12-3.12h1.2736a21.84 21.84 0 0 0 18.486 14.454v5.3056c0 1.7285-1.3915 3.12-3.12 3.12h-2.0069a26 26 0 0 0 7.2068 1.04 26 26 0 0 0 26-26 26 26 0 0 0-26-26z"
-     fill="#cacbcf"
+     fill="#cbcccc"
      stroke-width="1.04"
      style="paint-order:stroke fill markers;fill:#cbcccc"
      id="path9771" />
@@ -49,12 +49,12 @@
      id="g9777">
     <path
        d="m53 13a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"
-       fill="#85858a"
+       fill="#717380"
        id="path9773"
        style="fill:#717380" />
     <path
        d="m52 13a1 1 0 1 0-2 0 1 1 0 0 0 2 0z"
-       fill="#fff"
+       fill="#f8f8f2"
        id="path9775"
        style="fill:#f8f8f2" />
   </g>
@@ -63,18 +63,18 @@
      id="g9783">
     <path
        d="m17 11a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"
-       fill="#85858a"
+       fill="#717380"
        id="path9779"
        style="fill:#717380" />
     <path
        d="m16 11a1 1 0 1 0-2 0 1 1 0 0 0 2 0z"
-       fill="#fff"
+       fill="#f8f8f2"
        id="path9781"
        style="fill:#f8f8f2" />
   </g>
   <path
      d="M48 27.122C48 35.837 40.837 43 32 43s-16-7.163-16-15.878C16 18.164 23.163 11 32 11s16 7.164 16 16.122"
-     fill="#49494c"
+     fill="#44475a"
      fill-rule="evenodd"
      id="path9785"
      style="fill:#44475a" />
@@ -85,7 +85,7 @@
      style="fill:#717380" />
   <g
      transform="matrix(-1,0,0,1,44,46)"
-     fill="#949496"
+     fill="#9ea0a6"
      fill-rule="evenodd"
      id="g9799"
      style="fill:#9ea0a6">
@@ -129,12 +129,12 @@
      id="g9805">
     <path
        d="m53 51a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"
-       fill="#85858a"
+       fill="#717380"
        id="path9801"
        style="fill:#717380" />
     <path
        d="m52 51a1 1 0 1 0-2 0 1 1 0 0 0 2 0z"
-       fill="#fff"
+       fill="#f8f8f2"
        id="path9803"
        style="fill:#f8f8f2" />
   </g>
@@ -143,12 +143,12 @@
      id="g9811">
     <path
        d="m17 53a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"
-       fill="#6a6a6a"
+       fill="#717380"
        id="path9807"
        style="fill:#717380;fill-opacity:1" />
     <path
        d="m16 53a1 1 0 1 0-2 0 1 1 0 0 0 2 0z"
-       fill="#fff"
+       fill="#f8f8f2"
        id="path9809"
        style="fill:#f8f8f2" />
   </g>
@@ -176,7 +176,7 @@
      cx="32"
      cy="27"
      r="2"
-     fill="#fff"
+     fill="#f8f8f2"
      paint-order="markers stroke fill"
      id="circle9819"
      style="fill:#f8f8f2" />

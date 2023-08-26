@@ -43,7 +43,7 @@
      transform="rotate(90 140.17 -140.17)"
      id="g16">
     <g
-       fill="#fff"
+       fill="#f8f8f2"
        paint-order="stroke markers fill"
        id="g10"
        style="fill:#f8f8f2">
@@ -83,7 +83,7 @@
        cx="286.95"
        cy="-6.615"
        r="1.058"
-       fill="#fff"
+       fill="#f8f8f2"
        paint-order="markers stroke fill"
        id="circle14"
        style="fill:#f8f8f2" />

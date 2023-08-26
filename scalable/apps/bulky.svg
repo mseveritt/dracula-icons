@@ -48,8 +48,8 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#f8f8f2"
+     bordercolor="#717380"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -61,8 +61,8 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="9.4583332"
-     inkscape:cx="9.2511015"
-     inkscape:cy="27.118943"
+     inkscape:cx="5.6563877"
+     inkscape:cy="27.22467"
      inkscape:window-x="97"
      inkscape:window-y="97"
      inkscape:window-maximized="0"
@@ -82,10 +82,10 @@
   <path
      d="M 43.769278,24 A 19.965508,19.965511 0 0 1 23.803772,43.96551 19.965508,19.965511 0 0 1 3.8382628,24 19.965508,19.965511 0 0 1 23.803772,4.0344904 19.965508,19.965511 0 0 1 43.769278,24 Z"
      id="path1131"
-     style="opacity:0.99;fill:#282a36;fill-opacity:0.92329115;stroke-width:1.01194" />
+     style="opacity:0.99;fill:#44475a;fill-opacity:0.92329115;stroke-width:1.01194" />
   <path
      d="m 8.1687214,17.364048 c -0.6446227,0 -1.1626391,0.518909 -1.1626391,1.16264 v 11.629065 c 0,0.644624 0.5180164,1.163532 1.1626391,1.163532 H 25.612766 V 28.992223 H 9.3313606 V 19.690218 H 25.612766 v -2.32617 z m 24.4216636,0 v 2.32617 h 4.651449 v 9.303788 h -4.651449 v 2.325279 h 5.814979 c 0.643731,0 1.162639,-0.518017 1.162639,-1.162639 V 18.528471 c 0,-0.644623 -0.518908,-1.162639 -1.162639,-1.162639 z m -20.932854,4.651449 v 4.65234 h 10.466427 v -4.653231 z"
-     fill="#f9f9f9"
+     fill="#f8f8f2"
      id="path24"
      style="fill:#f8f8f2;fill-opacity:1;stroke-width:1.16264" />
   <path
