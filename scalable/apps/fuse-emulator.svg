@@ -4,17 +4,17 @@
    height="64"
    version="1.1"
    viewBox="0 0 64 64"
-   id="svg12"
-   sodipodi:docname="pinta.svg"
+   id="svg14"
+   sodipodi:docname="fuse-emulator.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs16" />
+     id="defs18" />
   <sodipodi:namedview
-     id="namedview14"
+     id="namedview16"
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -31,29 +31,36 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
+     inkscape:current-layer="svg14" />
+  <path
+     d="m32 5c14.909 0 27 12.091 27 27s-12.091 27-27 27-27-12.091-27-27 12.091-27 27-27z"
+     fill="#414141"
+     stroke-width="1.1739"
+     id="path2"
+     style="fill:#44475a" />
   <g
-     transform="matrix(1.1304 0 0 1.1304 4.8696 4.8696)"
-     id="g10">
+     transform="matrix(1.076 0 0 1.076 -2.4517 -3.0643)"
+     stroke-width="1.1739"
+     id="g12">
     <path
-       d="m24 1c12.703 0 23 10.297 23 23s-10.297 23-23 23-23-10.297-23-23 10.297-23 23-23z"
-       fill="#6172a7"
-       id="path2"
-       style="fill:#6272a4" />
-    <path
-       d="m22.785 25.05 2.449 2.285c4.336-4.25 10.719-14.43 10.719-14.43 0.258-0.734-0.652-1.199-1.113-0.703 0 0-8.25 8.484-12.05 12.848"
-       fill="#f39c2d"
+       d="m24.839 21.435-8.1235 22.304 4.4022 1.7e-5 8.1235-22.304-4.4022-6e-6z"
+       fill="#f47171"
        id="path4"
-       style="fill:#c7925b" />
+       style="fill:#fd7e7c" />
     <path
-       d="m18.199 31.21 1.355 1.164 5.117-4.434 0.168-0.426 0.66-0.012c-0.266-0.941-1.773-2.645-2.902-2.645l0.047 0.656-0.402 0.23-4.04 5.457"
-       fill="#ffffff"
+       d="m30.826 21.435-8.1235 22.304 4.4022 1.8e-5 8.1235-22.304z"
+       fill="#f4dd6c"
        id="path6"
-       style="fill:#f8f8f2" />
+       style="fill:#f3faa6" />
     <path
-       d="m12 35.969c3.98 0 7 0.477 7.574-2.418 0.461-2.332-2.746-3.449-4.34-1.367-1.531 2-3.234 3.781-3.234 3.781"
-       fill="#333333"
+       d="m36.813 21.435-8.1235 22.304 4.4022 1.7e-5 8.1235-22.304z"
+       fill="#6add55"
        id="path8"
-       style="fill:#282a36" />
+       style="fill:#7afa99" />
+    <path
+       d="m42.917 21.435-8.1235 22.304 4.4022 1.7e-5 8.1235-22.304z"
+       fill="#6ad6ec"
+       id="path10"
+       style="fill:#8be9fd" />
   </g>
 </svg>

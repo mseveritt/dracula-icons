@@ -2,19 +2,18 @@
 <svg
    width="64"
    height="64"
-   viewBox="0 0 16.933 16.933"
    version="1.1"
-   id="svg12"
-   sodipodi:docname="mpv.svg"
+   id="svg6"
+   sodipodi:docname="ledger-live-desktop.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs16" />
+     id="defs10" />
   <sodipodi:namedview
-     id="namedview14"
+     id="namedview8"
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -31,29 +30,14 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
-  <circle
-     cx="8.466"
-     cy="8.466"
-     r="7.144"
-     fill="#9141ac"
-     style="paint-order:stroke fill markers;fill:#c7639f"
-     id="circle2" />
-  <g
-     style="paint-order:stroke markers fill"
-     id="g10">
-    <path
-       d="M8.467 1.323a7.144 7.144 0 0 0-5.431 2.506l11.935 7.575a7.144 7.144 0 0 0 .64-2.938 7.144 7.144 0 0 0-7.144-7.143z"
-       opacity=".08"
-       id="path4" />
-    <path
-       fill="#f8f8f2"
-       d="M14.97 5.53 3.04 13.1a7.144 7.144 0 0 0 5.427 2.51 7.144 7.144 0 0 0 7.143-7.144 7.144 7.144 0 0 0-.64-2.935z"
-       opacity=".15"
-       id="path6" />
-    <path
-       fill="#f8f8f2"
-       d="m10.319 8.467-4.234 2.645V5.821z"
-       id="path8" />
-  </g>
+     inkscape:current-layer="svg6" />
+  <path
+     fill="#282a36"
+     d="M32 5C17.042 5 5 17.042 5 32s12.042 27 27 27 27-12.042 27-27S46.958 5 32 5z"
+     id="path2"
+     style="fill:#44475a" />
+  <path
+     fill="#f8f8f2"
+     d="M28.027 25.85h1.958v10.308h5.957v1.972h-7.92zm-.034-10.123v1.958H17.685v5.957h-1.972v-7.92zm8.015 0v1.958h10.309v5.957h1.972v-7.92zm-8.015 32.545v-1.958H17.685v-5.957h-1.972v7.92zm8.015 0v-1.958h10.309v-5.957h1.972v7.92z"
+     id="path4" />
 </svg>

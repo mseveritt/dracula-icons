@@ -2,10 +2,10 @@
 <svg
    width="64"
    height="64"
-   viewBox="0 0 16.933 16.933"
+   fill="none"
    version="1.1"
    id="svg12"
-   sodipodi:docname="mpv.svg"
+   sodipodi:docname="librecad.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -33,27 +33,32 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12" />
   <circle
-     cx="8.466"
-     cy="8.466"
-     r="7.144"
-     fill="#9141ac"
-     style="paint-order:stroke fill markers;fill:#c7639f"
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#f8f8f2"
      id="circle2" />
-  <g
-     style="paint-order:stroke markers fill"
-     id="g10">
-    <path
-       d="M8.467 1.323a7.144 7.144 0 0 0-5.431 2.506l11.935 7.575a7.144 7.144 0 0 0 .64-2.938 7.144 7.144 0 0 0-7.144-7.143z"
-       opacity=".08"
-       id="path4" />
-    <path
-       fill="#f8f8f2"
-       d="M14.97 5.53 3.04 13.1a7.144 7.144 0 0 0 5.427 2.51 7.144 7.144 0 0 0 7.143-7.144 7.144 7.144 0 0 0-.64-2.935z"
-       opacity=".15"
-       id="path6" />
-    <path
-       fill="#f8f8f2"
-       d="m10.319 8.467-4.234 2.645V5.821z"
-       id="path8" />
-  </g>
+  <path
+     fill="#8ED900"
+     d="M17.273 17.273V9.366a27.146 27.146 0 0 0-7.907 7.907h7.907Zm29.454-7.907v7.907h7.907a27.145 27.145 0 0 0-7.907-7.907Zm7.906 37.361h-7.906v7.907a27.145 27.145 0 0 0 7.907-7.907Zm-37.36 7.906v-7.906H9.366a27.145 27.145 0 0 0 7.907 7.907Z"
+     id="path4"
+     style="fill:#44c367" />
+  <path
+     fill="#4D4D4D"
+     d="M22.182 29.546H50v4.909H22.182z"
+     id="path6"
+     style="fill:#44475a" />
+  <circle
+     cx="32"
+     cy="32"
+     r="16.136"
+     stroke="#8ED900"
+     stroke-width="7"
+     id="circle8"
+     style="stroke:#44c367" />
+  <path
+     fill="#4D4D4D"
+     d="M12.364 27.091h9.818v9.818h-9.818z"
+     id="path10"
+     style="fill:#44475a" />
 </svg>

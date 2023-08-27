@@ -2,19 +2,18 @@
 <svg
    width="64"
    height="64"
-   viewBox="0 0 16.933 16.933"
-   version="1.1"
-   id="svg12"
-   sodipodi:docname="mpv.svg"
+   version="1"
+   id="svg8"
+   sodipodi:docname="matray.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs16" />
+     id="defs12" />
   <sodipodi:namedview
-     id="namedview14"
+     id="namedview10"
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -31,29 +30,21 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
+     inkscape:current-layer="svg8" />
   <circle
-     cx="8.466"
-     cy="8.466"
-     r="7.144"
-     fill="#9141ac"
-     style="paint-order:stroke fill markers;fill:#c7639f"
+     cx="32"
+     cy="32"
+     r="27"
+     fill="#f8f8f2"
      id="circle2" />
-  <g
-     style="paint-order:stroke markers fill"
-     id="g10">
-    <path
-       d="M8.467 1.323a7.144 7.144 0 0 0-5.431 2.506l11.935 7.575a7.144 7.144 0 0 0 .64-2.938 7.144 7.144 0 0 0-7.144-7.143z"
-       opacity=".08"
-       id="path4" />
-    <path
-       fill="#f8f8f2"
-       d="M14.97 5.53 3.04 13.1a7.144 7.144 0 0 0 5.427 2.51 7.144 7.144 0 0 0 7.143-7.144 7.144 7.144 0 0 0-.64-2.935z"
-       opacity=".15"
-       id="path6" />
-    <path
-       fill="#f8f8f2"
-       d="m10.319 8.467-4.234 2.645V5.821z"
-       id="path8" />
-  </g>
+  <path
+     fill="#35454c"
+     d="M19.642 21.715c-.989 0-1.785.788-1.785 1.768v20.956c0 .98.796 1.7 1.785 1.704h16.072l3.571 3.858 3.572-3.858h5.357c.99 0 1.786-.724 1.786-1.704V23.483c0-.98-.797-1.768-1.786-1.768z"
+     id="path4"
+     style="fill:#44475a" />
+  <path
+     fill="#16a085"
+     d="M15.073 14c-.595 0-1.074.48-1.074 1.074v19.71a1.07 1.07 0 0 0 1.074 1.074h5.355V20.429h7.714v-6.428zm14.355 0v21.858h5.354c.595 0 1.074-.479 1.074-1.074v-19.71c0-.595-.479-1.074-1.074-1.074zm-7.714 7.715v14.143h6.428V21.715z"
+     id="path6"
+     style="fill:#44c367" />
 </svg>

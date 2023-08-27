@@ -2,19 +2,18 @@
 <svg
    width="64"
    height="64"
-   viewBox="0 0 16.933 16.933"
    version="1.1"
-   id="svg12"
-   sodipodi:docname="mpv.svg"
+   id="svg8"
+   sodipodi:docname="makehuman.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs16" />
+     id="defs12" />
   <sodipodi:namedview
-     id="namedview14"
+     id="namedview10"
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -31,29 +30,18 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg12" />
-  <circle
-     cx="8.466"
-     cy="8.466"
-     r="7.144"
-     fill="#9141ac"
-     style="paint-order:stroke fill markers;fill:#c7639f"
-     id="circle2" />
+     inkscape:current-layer="svg8" />
   <g
-     style="paint-order:stroke markers fill"
-     id="g10">
+     stroke-width=".852"
+     id="g6">
     <path
-       d="M8.467 1.323a7.144 7.144 0 0 0-5.431 2.506l11.935 7.575a7.144 7.144 0 0 0 .64-2.938 7.144 7.144 0 0 0-7.144-7.143z"
-       opacity=".08"
+       fill="#383838"
+       d="M32 5c14.912 0 27 12.087 27 26.999s-12.088 27-27 27-27-12.088-27-27 12.088-27 27-27z"
+       id="path2"
+       style="fill:#44475a" />
+    <path
+       d="M32 14.872c-1.23 0-2.255.98-2.255 2.199 0 1.218 1.026 2.199 2.255 2.199 1.23 0 2.219-.98 2.219-2.2 0-1.217-.99-2.198-2.219-2.198zm-16.714 1.95 11.202 6.74 4.555 29.366V29.803H33.1v23.125l4.376-29.367 11.238-6.738L33.1 21.965v5.356h-2.057v-5.356z"
+       style="display:inline;overflow:visible;visibility:visible;fill:#ffb86c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.648499;marker:none;enable-background:accumulate"
        id="path4" />
-    <path
-       fill="#f8f8f2"
-       d="M14.97 5.53 3.04 13.1a7.144 7.144 0 0 0 5.427 2.51 7.144 7.144 0 0 0 7.143-7.144 7.144 7.144 0 0 0-.64-2.935z"
-       opacity=".15"
-       id="path6" />
-    <path
-       fill="#f8f8f2"
-       d="m10.319 8.467-4.234 2.645V5.821z"
-       id="path8" />
   </g>
 </svg>
