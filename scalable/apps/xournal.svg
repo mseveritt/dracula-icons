@@ -6,7 +6,7 @@
    viewBox="0 0 64 64"
    id="svg14"
    sodipodi:docname="xournal.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,12 +24,12 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
+     inkscape:cx="28.98528"
+     inkscape:cy="32.062807"
      inkscape:window-width="2560"
-     inkscape:window-height="1361"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1373"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
   <path
@@ -60,6 +60,6 @@
        d="m31.27 20.01-11.697 10.734-1.57 4.258 4.367-1.289 0.012 0.012 0.023-0.023h4e-3l11.578-10.75s0.192-0.637-0.979-1.883c-0.85-0.899-1.478-1.043-1.738-1.059z"
        fill="#3686dd"
        id="path10"
-       style="fill:#6272a4" />
+       style="fill:#168daa" />
   </g>
 </svg>

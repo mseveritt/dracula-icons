@@ -5,7 +5,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="teamviewer.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,13 +23,13 @@
      inkscape:deskcolor="#505050"
      showgrid="false"
      inkscape:zoom="15.921875"
-     inkscape:cx="29.895976"
-     inkscape:cy="32.031403"
-     inkscape:window-width="2560"
-     inkscape:window-height="1361"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:cx="28.98528"
+     inkscape:cy="32.125613"
+     inkscape:window-width="1520"
+     inkscape:window-height="1243"
+     inkscape:window-x="935"
+     inkscape:window-y="102"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg8" />
   <g
      transform="matrix(1.35 0 0 1.35 -.4 -22)"
@@ -44,7 +44,7 @@
        stroke-opacity=".55027"
        stroke-width="2.0741"
        id="rect2"
-       style="fill:#6272a4" />
+       style="fill:#168daa" />
     <path
        d="m24 27c-7.1868 0-13 5.8139-13 13 0 7.186 5.8132 13 13 13 7.1868 0 13-5.814 13-13 0-7.1861-5.8132-13-13-13zm-3 9v2h6v-2l3.5723 2 3.4277 2-3.4277 2-3.5723 2v-2h-6v2l-3.5723-2-3.4277-2 3.4277-2z"
        fill="#ebf3fc"
